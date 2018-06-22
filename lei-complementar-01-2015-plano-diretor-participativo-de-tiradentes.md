@@ -1,6 +1,8 @@
-﻿# Plano Diretor Participativo do Município de Tiradentes
+﻿> <small>Atenção: Esta versão revisada e editada de forma acessível para leitura em telas da Lei Complementar 01/2015 (Plano Diretor Participativo do Município de Tiradentes), servindo como referência e não deve ser considerada um documento oficial.</small>
 
-## Proposta Preliminar de Anteprojeto de Lei
+> <small>Para obter a redação final e oficial da lei, consulte o arquivo PDFs que pode ser baixado <a href="https://9ue3j1im8zr3t8m0ebjd01ah-wpengine.netdna-ssl.com/wp-content/uploads/sites/13/2018/05/plano-diretor-do-municipio-de-tiradentes-lei-complementar-municipal-01-2015-de-15-04-2015docx.pdf" target="_blank" rel="noopener">neste link </a>ou no <a href="http://www.tiradentes.mg.gov.br/pagina/6916/Plano%20Diretor" target="_blank" rel="nofollow noopener">site oficial</a> da Prefeitura Municipal de Tiradentes.</small>
+
+# Plano Diretor Participativo do Município de Tiradentes
 
 ## Sumário
 
@@ -8,81 +10,80 @@
 - [Título II Das Diretizes E Ações Para o Desenvolvimento Econômico](#titulo-ii)
   - [Capítulo I - Da Agropecuária](#titulo-ii-capitulo-i)
   - [Capítulo II Do Setor De Comércio E Serviços](#titulo-ii-capitulo-ii)
-  - Capítulo III Da Indústria
-  - Capítulo IV Da Administração Pública 9
-- Título III Das Diretizes E Ações Para A Política Municipal De Turismo 10
-  - Capítulo I Do Fortalecimento E Articulação Institucional Para O Planejamento E A Gestão Do Turismo 10
-  - Capítulo II Do DesenvolVImento De Instrumentos De Planejamento E Gestão Do Turismo 11
-  - Capítulo III Da Criação E Estruturação De Atrativos E Roteiros Turísticos 11
-  - Capítulo IV Do Apoio Ao DesenvolVImento De Serviços E Equipamentos Turísticos 2
-  - Capítulo V Do Fomento À Comercialização E Marketing Do Destino 12
-- Título IV Das Diretrizes E Ações Para O DesenvolVImento Social 13
-  - Capítulo I Dos Programas E Ações Setoriais 14
-  - Capítulo II Dos Programas E Ações Da Educação 14
-  - Capítulo III Dos Programas E Ações Da Saúde 15
-  - Capítulo IV Dos Programas E Ações Da Assistência Social 16
-  - Capítulo V Dos Programas E Ações Da Habitação De Interesse Social 16
-  - Capítulo VI Dos Programas E Ações Do Esporte E Lazer 17
-- Título V Das Diretrizes E Ações Para A Politica Municipal De Cultura 18
-  - Capítulo I Das Dimensões Da Cultura 18
-  - Capítulo II Das Diretrizes Para A Politica Municipal De Cultura 19
-  - Capítulo III Das Ações Para A Politica Municipal De Cultura 19
-- Título VI Das Diretrizes E Ações Para A Politica Municipal De Meio Ambiente 21
-  - Capítulo I Do Fortalecimento Institucional Para A Gestão Ambiental 21
-  - Capítulo II Da Ações Municipais Para A Proteção Ambiental 22
-  - Capítulo III Da Atuação Intergovernamental Para A Proteção Ambiental 23
-- Título VII Das Diretrizes E Ações Para A Politica Municipal De Ordenamento Territorial 23
-  - Capítulo I Do Macrozoneamento Municipal 24
-  - Capítulo II Do Macrozoneamento Urbano 25
-    - Seção I Do Zoneamento Da Sede Municipal 25
-    - Seção II Do Zoneamento De Aguas Santas E Cesar De Pina 26
-    - Seção III Do Zoneamento Do Distrito De Elvas 27
-  - Capítulo III Do Tratamento Do Distrito De Caixa D Água Da Esperança 27
-  - Capítulo IV Dos Empreendimentos De Impacto 28
-  - Capítulo V Dos Usos Não Conformes 29
-  - Capítulo VI Das Ações Setoriais Relativas À Infraestrutura Urbana 29
-    - Seção I Do Abastecimento De Água E Esgotamento Sanitário 29
-    - Seção II Da Coleta E Destinação Final De Resíduos Sólidos 29
-    - Seção III Da Drenagem Urbana 29
-    - Seção IV Da Energia 30
-    - Seção V Da Comunicação 30
-    - Seção VI Da Segurança Pública 30
-  - Capítulo VII Da Mobilidade E Acessibilidade 31
-  - Capítulo VIII Dos Instrumentos De Política Urbana 33
-    - Seção I Do Parcelamento Edificação Ou Utilização Compulsórios 34
-    - Seção II Do Direito De Preempção 35
-    - Seção III Do Direito De Superfície 36
-    - Seção IV Das Operações Urbanas Consorciadas 36
-    - Seção V Do Estudo De Impacto De VIzinhança 37
-    - Seção VI Da Regularização Urbanística E Fundiária 38
-- Título VIII Das Diretrizes Para A Dimensão Institucional 39
-  - Capítulo I Do Fortalecimento Da Administração Municipal 39
-  - Capítulo II Do Sistema Municipal De Planejamento E Gestão 41
-    - Seção I Do Setor Responsável Pela Implementação Do Plano Diretor 42
-    - Seção II Do Conselho Municipal De DesenvolVImento Urbano 42
-    - Seção IV Do Fundo De DesenvolVImento Urbano 44
-    - Seção V Do Sistema Municipal De Informações 44
-    - Seção VI Da Conferência Municipal Da Cidade 44
-- Título Ix Das Disposições Finais 45
-- Anexo I Divisão Administrativa Do Município De Tiradentes 47
-- Anexo II Macrozoneamento Municipal 48
-- Anexo III Macrozoneamento Urbano E Articulação VIária Da Sede Municipal 49
-- Anexo IV Macrozoneamento Urbano De Águas Santas E Cesar De Pina 50
-- Anexo V Macrozoneamento Urbano Do Distrito De Elvas 51
-- Anexo VI Distrito De Caixa D Água Da Esperança 52
-- Anexo VII Articulação Municipal 53
-- Anexo VIII Empreendimentos De Impacto 54
-- Anexo X Termo De Referência Para A Elaboração De Estudo De Impacto De VIzinhança EIV 60
+  - [Capítulo III Da Indústria](#titulo-ii-capitulo-iii)
+  - [Capítulo IV Da Administração Pública](#titulo-ii-capitulo-iv)
+- [Título III Das Diretizes E Ações Para A Política Municipal De Turismo](#titulo-iii)
+  - [Capítulo I Do Fortalecimento E Articulação Institucional Para O Planejamento E A Gestão Do Turismo](#titulo-iii-capitulo-i)
+  - [Capítulo II Do Desenvolvimento De Instrumentos De Planejamento E Gestão Do Turismo](#titulo-iii-capitulo-ii)
+  - [Capítulo III Da Criação E Estruturação De Atrativos E Roteiros Turísticos](#titulo-iii-capitulo-iii)
+  - [Capítulo IV Do Apoio Ao Desenvolvimento De Serviços E Equipamentos Turísticos](#titulo-iii-capitulo-iv)
+  - [Capítulo V Do Fomento À Comercialização E Marketing Do Destino](#titulo-iii-capitulo-v)
+- [Título IV Das Diretrizes E Ações Para O Desenvolvimento Social](#titulo-iv)
+  - [Capítulo I Dos Programas E Ações Setoriais](#titulo-iv-capitulo-i)
+  - [Capítulo II Dos Programas E Ações Da Educação](#titulo-iv-capitulo-ii)
+  - [Capítulo III Dos Programas E Ações Da Saúde](#titulo-iv-capitulo-iii)
+  - [Capítulo IV Dos Programas E Ações Da Assistência Social](#titulo-iv-capitulo-iv)
+  - [Capítulo V Dos Programas E Ações Da Habitação De Interesse Social](#titulo-iv-capitulo-v)
+  - [Capítulo VI Dos Programas E Ações Do Esporte E Lazer](#titulo-iv-capitulo-vi)
+- [Título V Das Diretrizes E Ações Para A Politica Municipal De Cultura](#titulo-v)
+  - [Capítulo I Das Dimensões Da Cultura](#titulo-v-capitulo-i)
+  - [Capítulo II Das Diretrizes Para A Politica Municipal De Cultura](#titulo-v-capitulo-ii)
+  - [Capítulo III Das Ações Para A Politica Municipal De Cultura](#titulo-v-capitulo-iii)
+- [Título VI Das Diretrizes E Ações Para A Politica Municipal De Meio Ambiente](#titulo-vi)
+  - [Capítulo I Do Fortalecimento Institucional Para A Gestão Ambiental](#titulo-vi-capitulo-i)
+  - [Capítulo II Da Ações Municipais Para A Proteção Ambiental](#titulo-vi-capitulo-ii)
+  - [Capítulo III Da Atuação Intergovernamental Para A Proteção Ambiental](#titulo-vi-capitulo-iii)
+- [Título VII Das Diretrizes E Ações Para A Politica Municipal De Ordenamento Territorial](#titulo-vii)
+  - [Capítulo I Do Macrozoneamento Municipal](#titulo-vii-capitulo-i)
+  - [Capítulo II Do Macrozoneamento Urbano](#titulo-vii-capitulo-ii)
+    - [Seção I Do Zoneamento Da Sede Municipal](#titulo-vii-capitulo-ii-secao-i)
+    - [Seção II Do Zoneamento De Aguas Santas E Cesar De Pina](#titulo-vii-capitulo-ii-secao-ii)
+    - [Seção III Do Zoneamento Do Distrito De Elvas](#titulo-vii-capitulo-ii-secao-iii)
+  - [Capítulo III Do Tratamento Do Distrito De Caixa D Água Da Esperança](#titulo-vii-capitulo-iii)
+  - [Capítulo IV Dos Empreendimentos De Impacto](#titulo-vii-capitulo-iv)
+  - [Capítulo V Dos Usos Não Conformes](#titulo-vii-capitulo-v)
+  - [Capítulo VI Das Ações Setoriais Relativas À Infraestrutura Urbana](#titulo-vii-capitulo-vi)
+    - [Seção I Do Abastecimento De Água E Esgotamento Sanitário](#titulo-vii-capitulo-vi-secao-i)
+    - [Seção II Da Coleta E Destinação Final De Resíduos Sólidos](#titulo-vii-capitulo-vi-secao-ii)
+    - [Seção III Da Drenagem Urbana](#titulo-vii-capitulo-vi-secao-iii)
+    - [Seção IV Da Energia](#titulo-vii-capitulo-vi-secao-iv)
+    - [Seção V Da Comunicação](#titulo-vii-capitulo-vi-secao-v)
+    - [Seção VI Da Segurança Pública](#titulo-vii-capitulo-vi-secao-vi)
+  - [Capítulo VII Da Mobilidade E Acessibilidade](#titulo-vii-capitulo-vii)
+  - [Capítulo VIII Dos Instrumentos De Política Urbana](#titulo-vii-capitulo-viii)
+    - [Seção I Do Parcelamento Edificação Ou Utilização Compulsórios](#titulo-vii-capitulo-viii-secao-i)
+    - [Seção II Do Direito De Preempção](#titulo-vii-capitulo-viii-secao-ii)
+    - [Seção III Do Direito De Superfície](#titulo-vii-capitulo-viii-secao-iii)
+    - [Seção IV Das Operações Urbanas Consorciadas](#titulo-vii-capitulo-viii-secao-iv)
+    - [Seção V Do Estudo De Impacto De VIzinhança](#titulo-vii-capitulo-viii-secao-v)
+    - [Seção VI Da Regularização Urbanística E Fundiária](#titulo-vii-capitulo-viii-secao-vi)
+- [Título VIII Das Diretrizes Para A Dimensão Institucional](#titulo-viii)
+  - [Capítulo I Do Fortalecimento Da Administração Municipal](#titulo-viii-capitulo-i)
+  - [Capítulo II Do Sistema Municipal De Planejamento E Gestão](#titulo-viii-capitulo-ii)
+    - [Seção I Do Setor Responsável Pela Implementação Do Plano Diretor](#titulo-viii-capitulo-ii-secao-i)
+    - [Seção II Do Conselho Municipal De Desenvolvimento Urbano](#titulo-viii-capitulo-ii-secao-ii)
+    - [Seção III Do Fundo De Desenvolvimento Urbano](#titulo-viii-capitulo-ii-secao-iii)
+    - [Seção IV Do Sistema Municipal De Informações](#titulo-viii-capitulo-ii-secao-iv)
+    - [Seção V Da Conferência Municipal Da Cidade](#titulo-viii-capitulo-ii-secao-v)
+- [Título IX Das Disposições Finais](#titulo-ix)
+- [Anexo I Divisão Administrativa Do Município De Tiradentes](##anexo-i)
+- [Anexo II Macrozoneamento Municipal](##anexo-ii)
+- [Anexo III Macrozoneamento Urbano E Articulação VIária Da Sede Municipal](##anexo-iii)
+- [Anexo IV Macrozoneamento Urbano De Águas Santas E Cesar De Pina](##anexo-iv)
+- [Anexo V Macrozoneamento Urbano Do Distrito De Elvas](##anexo-v)
+- [Anexo VI Distrito De Caixa D Água Da Esperança](##anexo-vi)
+- [Anexo VII Articulação Municipal](##anexo-vii)
+- [Anexo VIII Empreendimentos De Impacto](##anexo-viii)
+- [Anexo IX Termo De Referência Para A Elaboração De Estudo De Impacto De VIzinhança EIV](##anexo-ix)
 
 ## Plano Diretor Participativo Do Município De Tiradentes
-
 
 ### Preâmbulo
 
 O Plano Diretor Participativo do município de Tiradentes é o resultado de um processo de construção coletiva, VIsando estabelecer caminhos para o seu desenvolVImento, considerando como premissas a sustentabilidade ambiental e social; a articulação entre a proteção ao patrimônio histórico, cultural e ambiental à dinâmica econômica; o usufruto dos benefícios do desenvolVImento para todos os cidadãos; a participação como ferramenta para consolidar o acordo e o compromisso de todos com o bem estar coletivo e o interesse público, em prol dos objetivos colocados, respeitadas a Constituição da República, a Constituição do Estado de Minas Gerais e a Lei Orgânica do município de Tiradentes, na busca por um território unido pela solidariedade, justiça e paz.
 
 
-### Anteprojeto De Lei N 01 De 14 De Abril De 2015
+### Anteprojeto De Lei N.01 De 14 De Abril De 2015
 
 
 Institui o Plano Diretor Participativo do município de Tiradentes.
@@ -151,7 +152,7 @@ Art. 5º – São diretrizes gerais para a política de desenvolVImento econômi
 
 1. elaborar políticas e planos que contemplem os diferentes aspectos e dimensões do desenvolVImento sustentável, tendo como referência as políticas setoriais do governo federal e estadual;
 2. adotar estratégias diferenciadas de acordo com as especificidades e potencialidades inerentes a cada espaço geoeconômico do município, respeitando as características das áreas sejam elas urbanas ou rurais;
-3. dIVersificar a base econômica e enVIdar esforços na busca de novos mercados VIa diferenciação de produtos e agregação de valor;
+3. diversificar a base econômica e enVIdar esforços na busca de novos mercados VIa diferenciação de produtos e agregação de valor;
 4. incentivar ativIdades intensIVas em mão-de-obra, especialmente nos setores de turismo, cultura, esportes, comércio e serviços, construção cIVIl e agropecuário;
 5. ampliar e criar oportunidades para que as empresas de pequeno porte, em todos os setores de ativIdades, possam contribuir para a conquista do desenvolVImento sustentável;
 6. fortalecer as estruturas institucionais para permitir a formulação e a implementação eficaz de políticas, planos, programas e projetos de desenvolVImento sustentável;
@@ -181,12 +182,12 @@ Art. 7º – São programas e ações para o desenvolVImento da agropecuária no
 
 1. adotar os princípios da agroecologia conforme preconiza o Plano Nacional de Agroecologia e Produção Orgânica, buscando beneficiar o município com os recursos disponibilizados pela União.
 
-#### CAPÍTULO II - DO SETOR DE COMÉRCIO E SERVIÇOS
+#### <a id="titulo-iii-capitulo-ii">CAPÍTULO II - DO SETOR DE COMÉRCIO E SERVIÇOS</a>
 
 Art. 8º – São diretrizes para o desenvolVImento do setor de comercio e serviços no município:
 
 1. estimular o setor de serviços para um esforço de modernização e de melhoria da qualidade e da produtivIdade, bem como incentivo à instalação de ativIdades comerciais e de serviços direcionadas às potencialidades e demandas locais das famílias e empresas;
-2. fortalecer e consolidar a cadeia produtiva do turismo, que representa uma ativIdade estratégica para o desenvolVImento econômico sustentável de Tiradentes, seja pela quantidade e dIVersidade de produtos e serviços envolVIdos, seja pelo impacto produzido sobre os mais variados setores da economia e, ainda, pela sua capacidade de gerar postos de trabalho e renda, como empregos diretos e indiretos, permanentes ou sazonais, mercado formal e informal.
+2. fortalecer e consolidar a cadeia produtiva do turismo, que representa uma ativIdade estratégica para o desenvolVImento econômico sustentável de Tiradentes, seja pela quantidade e diversidade de produtos e serviços envolVIdos, seja pelo impacto produzido sobre os mais variados setores da economia e, ainda, pela sua capacidade de gerar postos de trabalho e renda, como empregos diretos e indiretos, permanentes ou sazonais, mercado formal e informal.
 
 Art. 9º – São programas e ações para o desenvolVImento do setor de comércio e serviços:
 
@@ -195,11 +196,11 @@ Art. 9º – São programas e ações para o desenvolVImento do setor de comérc
 3. apoiar as micro, pequenas e médias empresas envolVIdas nas ativIdades do setor de serviços, sobretudo as relacionadas com as ativIdades de turismo;
 4. promover qualificação da mão de obra.
 
-#### CAPÍTULO III - DA INDÚSTRIA
+#### <a id="titulo-ii-capitulo-iii">CAPÍTULO III - DA INDÚSTRIA</a>
 
 Art. 10º – São diretrizes para o desenvolVImento do setor industrial:
 
-1. estruturar e fortalecer a capacidade de inovação e criação no município, contribuindo para a dIVersificação das ativIdades econômicas e para a busca de novos mercados, VIa diferenciação de produtos e agregação de valor;
+1. estruturar e fortalecer a capacidade de inovação e criação no município, contribuindo para a diversificação das ativIdades econômicas e para a busca de novos mercados, VIa diferenciação de produtos e agregação de valor;
 2. apoiar e incentivar o artesanato local, integrante do setor denominado economia criativa, em especial movelarias e serralherias, como forma de garantir emprego e renda para os artesãos e pelo seu papel estratégico por sua capacidade de geração de empregos e renda.
 
 Art.11 – São programas e ações para o desenvolVImento do setor industrial:
@@ -218,7 +219,7 @@ Art.11 – São programas e ações para o desenvolVImento do setor industrial:
 
 1. atrair e estimular a instalação e a expansão de ativIdades criativas, que envolvam a criação, produção e distribuição de bens e serviços que usam criativIdade e capital intelectual como insumos básicos.
 
-#### CAPÍTULO IV - DA ADMINISTRAÇÃO PÚBLICA
+#### <a id="titulo-ii-capitulo-iv">CAPÍTULO IV - DA ADMINISTRAÇÃO PÚBLICA</a>
 
 Art.12 – São diretrizes para a administração pública, no que se refere à política de desenvolVImento econômico, o fortalecimento e modernização da estrutura institucional pública municipal e a atualização da legislação tributária, de forma a dotar o município de instrumentos justos e capazes de promover a melhoria das finanças do munícipio.
 
@@ -227,8 +228,8 @@ Art.13 – São programas e ações para a administração pública, no que se r
 1. tornar mais eficiente a arrecadação de tributos, em especial o Imposto Predial e Territorial Urbano (IPTU) e o Imposto Sobre Serviços de Qualquer Natureza (ISSQN), investindo na atualização cadastral, na melhoria da qualidade da tributação e da fiscalização, bem como em capital humano e tecnologia, sem necessariamente aumentar alíquotas;
 2. promover educação fiscal e VIabilizar a participação da população na alocação dos recursos orçamentários;
 3. promover as compras governamentais locais por meio da implementação da Lei Geral das Microempresas e Empresas de Pequeno Porte, a Lei nº 123/2006, que incentiva a competitivIdade das microempresas e empresas de pequeno porte como estratégia de geração de emprego, distribuição de renda, inclusão social, redução da informalidade e fortalecimento da economia;
-4. buscar o incremento dos repasses estaduais relativos à Lei 18.030/2009 – Lei Robin Hood, nos seus dIVersos critérios.
-### Título III - DAS DIRETIZES E AÇÕES PARA A POLÍTICA MUNICIPAL DE TURISMO
+4. buscar o incremento dos repasses estaduais relativos à Lei 18.030/2009 – Lei Robin Hood, nos seus diversos critérios.
+### <a id="titulo-iii">Título III - DAS DIRETIZES E AÇÕES PARA A POLÍTICA MUNICIPAL DE TURISMO</a>
 
 Art.14 – A politica municipal de turismo será regida por um conjunto de diretrizes com as respectivas linhas de ações estratégicas específicas, de forma a maximizar a contribuição socioeconômica da ativIdade turística e minimizar seus impactos negativos, garantir a sua sustentabilidade, fortalecer a sua identidade e fomentar sua competitivIdade.
 
@@ -242,16 +243,16 @@ Art.15 – São diretrizes para a política municipal de turismo:
 
 Parágrafo Único – São prioritárias as diretrizes de fortalecimento e articulação institucional e de desenvolVImento de instrumentos de planejamento e gestão, na medida em que proporcionam as condições de necessárias para os investimentos consequentes em atrativos, serviços e equipamentos turísticos e na comercialização do destino.
 
-#### CAPÍTULO I - DO FORTALECIMENTO E ARTICULAÇÃO INSTITUCIONAL PARA O PLANEJAMENTO E A GESTÃO DO TURISMO
+#### <a id="titulo-iii-capitulo-i">CAPÍTULO I - DO FORTALECIMENTO E ARTICULAÇÃO INSTITUCIONAL PARA O PLANEJAMENTO E A GESTÃO DO TURISMO</a>
 
-Art.16 – O município deverá se inserir no âmbito do Sistema Nacional de Gestão do Turismo, que preconiza a gestão descentralizada e articulada em nível federal, estadual, regional e municipal, integrando as dIVersas instâncias da gestão pública e da iniciativa prIVada para o desenvolVImento da ativIdade nas dIVersas escalas territoriais e de gestão.
+Art.16 – O município deverá se inserir no âmbito do Sistema Nacional de Gestão do Turismo, que preconiza a gestão descentralizada e articulada em nível federal, estadual, regional e municipal, integrando as diversas instâncias da gestão pública e da iniciativa prIVada para o desenvolVImento da ativIdade nas diversas escalas territoriais e de gestão.
 
 Art.17 – São linhas de ações para o fortalecimento e articulação institucional para o planejamento e a gestão do turismo:
 
 1. dotar o setor responsável pelo turismo de estrutura organizacional e de pessoal capacitado para exercer as funções de planejamento e gestão do turismo municipal, proVIsão de informação turística e promoção de eventos.
 2. aprimorar a integração e a articulação intersetorial do setor responsável pelo turismo com as demais instâncias governamentais municipais relevantes para ações afins à área, tais como cultura, meio ambiente, infraestrutura e serviços públicos;
 3. melhorar a integração e a articulação do município junto à instância de governança turística regional constituída pelo Circuito Trilha dos Inconfidentes, bem como a outras instâncias intermunicipais relevantes, como a Associação das Cidades Históricas e Programa Estrada Real, em prol de ações que venham a beneficiar o turismo em nível regional e municipal;
-4. fortalecer os mecanismos da gestão participativa e a consolidação da participação democrática dos dIVersos atores sociais relacionados ao planejamento e à implementação da política de turismo municipal, sendo:
+4. fortalecer os mecanismos da gestão participativa e a consolidação da participação democrática dos diversos atores sociais relacionados ao planejamento e à implementação da política de turismo municipal, sendo:
 
 1. no nível municipal, o Conselho Municipal de Turismo, inclusIVe através de ativIdades periódicas de capacitação de seus membros para a gestão turística, e o Fundo Municipal de Turismo.
 2. nos níveis estadual e federal, a relação com a instância de governança regional como o Circuito Trilha dos Inconfidentes, com outros tipos de colegiado como associações, comitês, consórcios, fóruns e com o Conselho Estadual de Turismo.
@@ -259,7 +260,7 @@ Art.17 – São linhas de ações para o fortalecimento e articulação instituc
 1. incrementar a participação e a captação de recursos e benefícios junto aos planos, programas, projetos e ações da Política de Turismo nas esferas federal e estadual;
 2. orientar o setor prIVado e a sociedade cIVIl quanto às linhas de apoio e financiamento existentes para o setor de turismo.
 
-#### CAPÍTULO II - DO DESENVOLVIMENTO DE INSTRUMENTOS DE PLANEJAMENTO E GESTÃO DO TURISMO
+#### <a id="titulo-iii-capitulo-ii">CAPÍTULO II - DO DESENVOLVIMENTO DE INSTRUMENTOS DE PLANEJAMENTO E GESTÃO DO TURISMO</a>
 
 Art.18 – O município deverá construir um sistema de gestão turística do destino integrado à sua gestão ambiental, capaz de direcioná-lo à sustentabilidade e a um grau de diferenciação e competitivIdade desejável em relação a outros destinos.
 
@@ -280,7 +281,7 @@ Art.19 – São linhas de ações para o desenvolVImento de instrumentos de plan
 4. desenvolver estudos, planejamento e ações VIsando o fomento ao turismo pedagógico em Tiradentes;
 5. planejar o investimento em comunicação e marketing do destino a partir da dIVulgação de produtos efetivamente preparados para receber turistas de forma satisfatória e sustentável.
 
-#### CAPÍTULO III - DA CRIAÇÃO E ESTRUTURAÇÃO DE ATRATIVOS E ROTEIROS TURÍSTICOS
+#### <a id="titulo-iii-capitulo-iii">CAPÍTULO III - DA CRIAÇÃO E ESTRUTURAÇÃO DE ATRATIVOS E ROTEIROS TURÍSTICOS</a>
 
 Art.20 – São linhas de ações para a criação e estruturação de atrativos e roteiros turísticos:
 
@@ -299,7 +300,7 @@ Art.20 – São linhas de ações para a criação e estruturação de atrativos
 4. desenvolver projeto VIsando ao tratamento paisagístico para o Ribeiro Santo Antonio no seu percurso urbano;
 5. desenvolver projeto VIsando aperfeiçoamento da sinalização turística do município.
 
-#### CAPÍTULO IV - DO APOIO AO DESENVOLVIMENTO DE SERVIÇOS E EQUIPAMENTOS TURÍSTICOS
+#### <a id="titulo-iii-capitulo-iv">CAPÍTULO IV - DO APOIO AO DESENVOLVIMENTO DE SERVIÇOS E EQUIPAMENTOS TURÍSTICOS</a>
 
 Art.21 – São linhas de ações para apoio ao desenvolVImento de serviços e equipamentos turísticos:
 
@@ -310,7 +311,7 @@ Art.21 – São linhas de ações para apoio ao desenvolVImento de serviços e e
 5. executar ativIdades planejadas de capacitação da mão-de-obra gerencial e operacional de serviços e equipamentos turísticos de Tiradentes periodicamente;
 6. ampliar a fiscalização da operação turística.
 
-#### CAPÍTULO V - DO FOMENTO À COMERCIALIZAÇÃO E MARKETING DO DESTINO
+#### <a id="titulo-iii-capitulo-v">CAPÍTULO V - DO FOMENTO À COMERCIALIZAÇÃO E MARKETING DO DESTINO</a>
 
 Art.22 – Os investimentos para o fomento à comercialização turística do destino por parte do poder público, em particular, deverão ser incentivados de forma mais substantiva apenas após a elaboração dos instrumentos de planejamento e gestão adequados do destino e a deVIda estruturação do produto turístico de Tiradentes para um padrão de VIsitação sustentável.
 
@@ -319,7 +320,7 @@ Art.23 – São linhas de ações para fomento à comercialização e marketing 
 1. executar os investimentos planejados em informação e marketing do destino, envolvendo seus roteiros, atrativos e equipamentos turísticos;
 2. apoiar o desenvolVImento de iniciativas complementares de promoção do destino e captação de eventos turísticos, que atuem de forma alinhada às diretrizes para o planejamento turístico do destino, tais como o projeto do Convention & VIsitors Bureau de Tiradentes, em parceria com as instituições relevantes.
 
-### TÍTULO IV - DAS DIRETRIZES E AÇÕES PARA O DESENVOLVIMENTO SOCIAL
+### <a id="titulo-iv">TÍTULO IV - DAS DIRETRIZES E AÇÕES PARA O DESENVOLVIMENTO SOCIAL</a>
 
 Art.24 – O desenvolVImento social do município de Tiradentes deverá se apoiar no proVImento de capacidades organizacionais e técnicas na administração pública, para responder adequadamente à agenda lastreada na garantia dos direitos sociais constitucionalmente reconhecidos.
 
@@ -345,10 +346,10 @@ Art.26 – As estratégias para VIabilizar as diretrizes no médio prazo e opera
 3. compartilhamento de sistemas de informação e diagnóstico dos territórios focalizados.
 
 1. incorporar a dimensão territorial e a complementaridade entre as iniciativas governamentais e a organização comunitária, com foco nas áreas de maior vulnerabilidade como Várzea de Baixo, Alto da Torre e Mococa;
-2. promover a convergência da prestação de serviços dos dIVersos setores identificados como necessários com a implementação de procedimentos institucionalizados para coordenar as ações intersetoriais nos âmbitos territoriais e a qualificação da oferta de serviços, considerando a integralidade, a acessibilidade, a adequabilidade e a efetivIdade;
+2. promover a convergência da prestação de serviços dos diversos setores identificados como necessários com a implementação de procedimentos institucionalizados para coordenar as ações intersetoriais nos âmbitos territoriais e a qualificação da oferta de serviços, considerando a integralidade, a acessibilidade, a adequabilidade e a efetivIdade;
 3. assegurar a participação da sociedade no planejamento, monitoramento e avaliação das políticas sociais mediante fortalecimento dos conselhos setoriais e de direitos.
 
-#### CAPÍTULO I - DOS PROGRAMAS E AÇÕES SETORIAIS
+#### <a id="titulo-iv-capitulo-i">CAPÍTULO I - DOS PROGRAMAS E AÇÕES SETORIAIS</a>
 
 Art.27 – Os programas e ações setoriais têm como objetivo, no médio e longo prazo:
 
@@ -358,7 +359,7 @@ Art.27 – Os programas e ações setoriais têm como objetivo, no médio e long
 4. ampliar a fiscalização e o monitoramento da prestação de serviços, tanto pelo poder público quanto pela comunidade;
 5. promover parcerias com programas estaduais, com empresas e com organizações não governamentais para ativIdades e disseminação de práticas e valores que lastreiem o desenvolVImento humano e social de Tiradentes com maior equidade e em bases mais solidárias.
 
-#### CAPÍTULO II - DOS PROGRAMAS E AÇÕES DA EDUCAÇÃO
+#### <a id="titulo-iv-capitulo-ii">CAPÍTULO II - DOS PROGRAMAS E AÇÕES DA EDUCAÇÃO</a>
 
 Art.28 – São programas e ações para a política municipal de educação:
 
@@ -384,7 +385,7 @@ Art.28 – São programas e ações para a política municipal de educação:
 
 1. instituir obrigatoriedade da inspeção periódica dos veículos do transporte escolar, bem como fiscalização para eVItar atrasos e acesso de pessoas alheias à comunidade escolar.
 
-#### CAPÍTULO III - DOS PROGRAMAS E AÇÕES DA SAÚDE
+#### <a id="titulo-iv-capitulo-iii">CAPÍTULO III - DOS PROGRAMAS E AÇÕES DA SAÚDE</a>
 
 Art.29 – Ao município de Tiradentes compete a execução das ações de Atenção Básica ou Atenção Primária à saúde, sendo que as ações de saúde relativas à média complexidade são desenvolVIdas na microrregião de referência de São João Del Rei e as ações de saúde relativas à alta complexidade são desenvolVIdas na macrorregião de referência Centro-Sul, com polo em Barbacena, além das intervenções de média complexidade pactuadas nos municípios pertencentes ao Consórcio Municipal Campos das Vertentes (CISVER).
 
@@ -410,7 +411,7 @@ Art.30 – São programas e ações para a política municipal de saúde:
 
 1. promover programas específicos junto com as escolas de difusão junto aos alunos e suas famílias de procedimentos de higiene e de educação sexual, assim como de prevenção contra a graVIdez precoce e o consumo de drogas.
 
-#### CAPÍTULO IV - DOS PROGRAMAS E AÇÕES DA ASSISTÊNCIA SOCIAL
+#### <a id="titulo-iv-capitulo-iv">CAPÍTULO IV - DOS PROGRAMAS E AÇÕES DA ASSISTÊNCIA SOCIAL</a>
 
 Art.31 – O município de Tiradentes está habilitado na Gestão Básica e deverá assumir a responsabilidade de organizar a proteção básica e estruturar o Centro de Referência de Assistência Social (CRAS), em conformidade com as especificações técnicas do Sistema Único da Assistência Social (SUAS).
 
@@ -434,7 +435,7 @@ Art.32 – – São programas e ações para a política municipal de assistênc
 
 1. difundir nos meios de comunicação e outros fóruns de informações sobre direitos e serviços, projetos e programas disponíveis.
 
-#### CAPÍTULO V - DOS PROGRAMAS E AÇÕES DA HABITAÇÃO DE INTERESSE SOCIAL
+#### <a id="titulo-iv-capitulo-v">CAPÍTULO V - DOS PROGRAMAS E AÇÕES DA HABITAÇÃO DE INTERESSE SOCIAL</a>
 
 Art.33 – São programas e ações para a política municipal de habitação de interesse social;
 
@@ -445,7 +446,7 @@ Art.33 – São programas e ações para a política municipal de habitação de
 5. promover articulação intersetorial, especialmente com os setores do meio ambiente, da politica urbana e de assistência social.
 6. identificar agências estaduais e federais da política de habitação, bem como de recursos e instrumentos de capacitação nessa área para incremento da capacidade técnica e financeira e captação de recursos.
 
-#### CAPÍTULO VI - DOS PROGRAMAS E AÇÕES DO ESPORTE E LAZER
+#### <a id="titulo-iv-capitulo-vi">CAPÍTULO VI - DOS PROGRAMAS E AÇÕES DO ESPORTE E LAZER</a>
 
 Art.34 – O município de Tiradentes deverá adotar ativIdades esportivas e de lazer como formas de promoção da saúde, inclusão e promoção social, assim como contribuição para a criação de ambientes seguros e estabelecimento de relações estáveis entre crianças e adolescentes e entre estes e os adultos.
 
@@ -454,7 +455,7 @@ Art.35 – A politica municipal de esportes e lazer deverá ter como objetivos:
 1. garantir à população, em todas as faixas etárias, o acesso à prática esportiva como integrante da qualidade de VIda, do desenvolVImento humano e da formação da cidadania;
 2. garantir a participação popular nas decisões relativas à política municipal de esportes e lazer;
 3. integrar a política de esportes e lazer às políticas de cultura, educação, saúde e assistência social, assim como de desenvolVImento econômico e planejamento urbano e territorial;
-4. garantir recursos financeiros, humanos e materiais ao desenvolVImento e implantação da política municipal de esportes e lazer nos dIVersos instrumentos de planejamento municipal como plano plurianual de investimentos, lei de diretrizes orçamentárias e lei de orçamento anual, assim como na instituição de parcerias com outros níveis de governo, organismos de financiamento e a sociedade cIVIl;
+4. garantir recursos financeiros, humanos e materiais ao desenvolVImento e implantação da política municipal de esportes e lazer nos diversos instrumentos de planejamento municipal como plano plurianual de investimentos, lei de diretrizes orçamentárias e lei de orçamento anual, assim como na instituição de parcerias com outros níveis de governo, organismos de financiamento e a sociedade cIVIl;
 5. dIVulgar a associação entre os investimentos em esportes e lazer e os princípios de responsabilidade social, sustentabilidade e governança, agregando valor aos parceiros que atuam na política municipal de esportes e lazer;
 6. priorizar o atendimento às áreas identificadas como de maior vulnerabilidade.
 
@@ -462,7 +463,7 @@ Art.36 – São programas e ações para a política municipal de esportes e laz
 
 1. fortalecer o Conselho Municipal de Esportes e Lazer como forma de estimular a gestão participativa entre os atores públicos e representantes da sociedade cIVIl na definição de demandas e formulação da politica;
 2. elaborar o Plano Municipal de Esporte e Lazer, como instrumento de explicitação da politica no município;
-3. implementar o Fundo Municipal de DesenvolVImento de Esporte e Lazer, como fonte de recursos para a implementação da politica no município;
+3. implementar o Fundo Municipal de Desenvolvimento de Esporte e Lazer, como fonte de recursos para a implementação da politica no município;
 4. promover ações no sentido da contratação e capacitação de profissionais de ativIdade física, esporte e de lazer para atuação junto à população nos espaços destinados a essas ativIdades;
 5. promover campanhas de dIVulgação sobre os benefícios do esporte e lazer na saúde, equilíbrio psicológico, físico e motor e do calendário das ações de esporte e lazer no município.
 
@@ -480,23 +481,23 @@ Art.37 – São ações relativas à estrutura física e inclusão social no des
 
 1. promover estudo de VIabilidade para a criação de um Centro de Referência com a finalidade de formar e subsidiar os profissionais ligados à politica de esportes e lazer do município para a execução e acompanhamento de ativIdades físicas, esportivas e de lazer voltadas para os alunos das escolas públicas municipais.
 
-### TÍTULO V - DAS DIRETRIZES E AÇÕES PARA A POLITICA MUNICIPAL DE CULTURA
+### <a id="titulo-v">TÍTULO V - DAS DIRETRIZES E AÇÕES PARA A POLITICA MUNICIPAL DE CULTURA</a>
 
-#### CAPÍTULO I - DAS DIMENSÕES DA CULTURA
+#### <a id="titulo-v-capitulo-i">CAPÍTULO I - DAS DIMENSÕES DA CULTURA</a>
 
 Art.38 – Para efeito das definições de diretrizes e ações para a politica municipal de cultura, consideram-se dimensões da cultura:
 
-1. a dimensão simbólica, que compreende a expressão dos modos de VIda, crenças, valores, práticas, rituais e identidades, os quais caracterizam a dIVersidade cultural do município, abrangendo toda a produção nos campos das culturas populares, eruditas e da indústria cultural.
-2. a dimensão cidadã, que compreende a expressão dos direitos culturais garantidos a todos os cidadãos e acesso unIVersal à cultura, por meio do estímulo à criação artística, da democratização das condições de produção, da oferta de formação, da expansão dos meios de difusão, da ampliação das possibilidades de fruição e da lIVre circulação de valores culturais, garantindo o direito à identidade, à dIVersidade cultural e à participação na VIda cultural.
+1. a dimensão simbólica, que compreende a expressão dos modos de VIda, crenças, valores, práticas, rituais e identidades, os quais caracterizam a diversidade cultural do município, abrangendo toda a produção nos campos das culturas populares, eruditas e da indústria cultural.
+2. a dimensão cidadã, que compreende a expressão dos direitos culturais garantidos a todos os cidadãos e acesso unIVersal à cultura, por meio do estímulo à criação artística, da democratização das condições de produção, da oferta de formação, da expansão dos meios de difusão, da ampliação das possibilidades de fruição e da lIVre circulação de valores culturais, garantindo o direito à identidade, à diversidade cultural e à participação na VIda cultural.
 3. a dimensão econômica, que compreende a expressão das condições para o desenvolVImento da cultura como espaço de inovação e expressão da criativIdade local e fonte de oportunidades de geração de ocupações produtivas e de renda, fomentando a sustentabilidade e promovendo a desconcentração dos fluxos de formação, produção e difusão das distintas linguagens artísticas e múltiplas expressões culturais, com apoio aos artistas e produtores culturais atuantes no município para que tenham assegurado o direito autoral de suas obras.
 
-#### CAPÍTULO II - DAS DIRETRIZES PARA A POLITICA MUNICIPAL DE CULTURA
+#### <a id="titulo-v-capitulo-ii">CAPÍTULO II - DAS DIRETRIZES PARA A POLITICA MUNICIPAL DE CULTURA</a>
 
 Art.39 – São diretrizes para a política municipal de cultura:
 
 1. assegurar os direitos culturais a todos os munícipes e a unIVersalização do acesso a bens e serviços culturais;
-2. assegurar a dIVersidade, a valorização e a preservação do patrimônio cultural material e imaterial, combatendo a discriminação e o preconceito;
-3. consolidar a cultura como vetor do desenvolVImento sustentável, considerando em primeiro plano o interesse público e o respeito à dIVersidade cultural;
+2. assegurar a diversidade, a valorização e a preservação do patrimônio cultural material e imaterial, combatendo a discriminação e o preconceito;
+3. consolidar a cultura como vetor do desenvolVImento sustentável, considerando em primeiro plano o interesse público e o respeito à diversidade cultural;
 4. articular a política cultural com outras políticas públicas, de forma a contribuir para a equidade social e territorial e para a construção da cidadania cultural;
 5. promover a efetiva administração da politica de cultura no município, articulando a atuação dos equipamentos culturais e a interação das ativIdades relacionadas ao patrimônio material e imaterial, tendo como princípios:
 
@@ -505,7 +506,7 @@ Art.39 – São diretrizes para a política municipal de cultura:
 3. a regulamentação da economia da cultura, no âmbito local;
 4. a promoção de trocas, intercâmbios e diálogos interculturais.
 
-#### CAPÍTULO III - DAS AÇÕES PARA A POLITICA MUNICIPAL DE CULTURA
+#### <a id="titulo-v-capitulo-iii">CAPÍTULO III - DAS AÇÕES PARA A POLITICA MUNICIPAL DE CULTURA</a>
 
 Art.40 – São ações para a política municipal de cultura:
 
@@ -520,7 +521,7 @@ Art.40 – São ações para a política municipal de cultura:
 Art.41 – São ações específicas para a expressão da dimensão simbólica da cultura:
 
 1. incentivar o conhecimento e registro dos acontecimentos históricos e personagens comuns responsáveis pela construção da identidade local;
-2. inventariar os saberes tradicionais da comunidade em suas dIVersas dimensões como artes plásticas, artesanato em seus diferentes materiais, artes cênicas, musica, arte em ferro, madeira, gastronomia típica local;
+2. inventariar os saberes tradicionais da comunidade em suas diversas dimensões como artes plásticas, artesanato em seus diferentes materiais, artes cênicas, musica, arte em ferro, madeira, gastronomia típica local;
 3. valorizar e incentivar as ativIdades culturais tradicionais como os concertos musicais nas praças e igrejas realizados por músicos locais e pela Orquestra e Banda Ramalho e as festas organizadas e compartilhadas pela população local;
 4. criar mecanismos para VIabilizar a manutenção do acervo da Orquestra e Banda Ramalho, com fotos e partituras do século XVIII, XIX e XX.
 
@@ -534,7 +535,7 @@ Art.42 – São ações específicas para a expressão da dimensão cidadã da c
 6. ampliar os espaços públicos para fins culturais, de esporte e lazer nos bairros, em especial naqueles identificados como de maior vulnerabilidade;
 7. incentivar e apoiar ativIdades culturais inclusIVas para a população e programas culturais voltados para crianças e adolescentes em articulação com as escolas;
 8. incluir na programação cultural temas de interesse e práticas culturais locais;
-9. promover estudo de VIabilidade para a criação de um espaço multiuso relacionado à arte e criativIdade, com oferta de ativIdades como escolas de musica, artes e artesanato, buscando articular os artistas locais como músicos, artistas plásticos em suas dIVersas áreas, escultores, entalhadores, artesãos, dentre outros, VIsando apoiar e estimular o desenvolVImento da cultura e da criativIdade.
+9. promover estudo de VIabilidade para a criação de um espaço multiuso relacionado à arte e criativIdade, com oferta de ativIdades como escolas de musica, artes e artesanato, buscando articular os artistas locais como músicos, artistas plásticos em suas diversas áreas, escultores, entalhadores, artesãos, dentre outros, VIsando apoiar e estimular o desenvolVImento da cultura e da criativIdade.
 
 Art.43 – São ações específicas para a expressão da dimensão econômica da cultura:
 
@@ -550,7 +551,7 @@ Art.43 – São ações específicas para a expressão da dimensão econômica d
 
 1. estimular por meio de incentivos fiscais o patrocínio de empresas e organizações que salvaguardem o patrimônio cultural local e busquem o registro dos saberes tradicionais de cada comunidade.
 
-### TÍTULO VI - DAS DIRETRIZES E AÇÕES PARA A POLITICA MUNICIPAL DE MEIO AMBIENTE
+### <a id="titulo-vi">TÍTULO VI - DAS DIRETRIZES E AÇÕES PARA A POLITICA MUNICIPAL DE MEIO AMBIENTE</a>
 
 Art.44 – A politica municipal do meio ambiente tem como foco o desenvolVImento sustentável, de forma a equilibrar o caráter fundamental de cidade histórica e seu contexto ambiental com a categoria de destino indutor de turismo e de cidade global, que incorpora os avanços em todos os campos do conhecimento no século XXI no atendimento às demandas de sua população, sensibilizando toda a sociedade para esse objetivo.
 
@@ -569,7 +570,7 @@ Art.45 – São diretrizes para a política municipal de meio ambiente:
 3. implementar a educação ambiental sistêmica e contínua, integrada às ativIdades produtivas, incluindo estudantes, residentes e VIsitantes, esclarecendo o esforço necessário para elevação nos níveis de bem estar e sustentabilidade no município e capacitando-os para a participação ativa na defesa do meio ambiente;
 4. eVItar a aplicação da legislação referente a crimes ambientais, por meio da comunicação social e de ações preventivas.
 
-#### CAPÍTULO I - DO FORTALECIMENTO INSTITUCIONAL PARA A GESTÃO AMBIENTAL
+#### <a id="titulo-vi-capitulo-i">CAPÍTULO I - DO FORTALECIMENTO INSTITUCIONAL PARA A GESTÃO AMBIENTAL</a>
 
 Art.46 – São ações para o fortalecimento institucional na gestão da política municipal de meio ambiente:
 
@@ -591,17 +592,17 @@ Art.46 – São ações para o fortalecimento institucional na gestão da polít
 3. promover campanhas de informação, conscientização e mobilização da sociedade, empresas e VIsitantes em conformidade com as diretrizes colocadas;
 4. promover ações no sentido da criação do Selo Tiradentes Sustentável, para certificação de empreendimentos públicos e prIVados, prédios residenciais e comerciais que adotarem medidas que contribuam para a redução do consumo de água, energia, de emissões diretas de gases de efeito estufa e para a redução /ou reciclagem de resíduos sólidos.
 
-#### CAPÍTULO II - DA AÇÕES MUNICIPAIS PARA A PROTEÇÃO AMBIENTAL
+#### <a id="titulo-vi-capitulo-"ii>CAPÍTULO II - DA AÇÕES MUNICIPAIS PARA A PROTEÇÃO AMBIENTAL</a>
 
 Art.47 – São ações para o incremento da atuação do setor responsável pela proteção ao meio ambiente no município:
 
-1. estimular a criação de Reservas Particulares do Patrimônio Natural (RPPN) em áreas particulares, conforme preconizado pela Lei Federal 9.985/2000, que criou o Sistema Nacional de Unidades de Conservação (SNUC), com o objetivo de ampliar a superfície protegida no município e conservar a sua dIVersidade biológica;
+1. estimular a criação de Reservas Particulares do Patrimônio Natural (RPPN) em áreas particulares, conforme preconizado pela Lei Federal 9.985/2000, que criou o Sistema Nacional de Unidades de Conservação (SNUC), com o objetivo de ampliar a superfície protegida no município e conservar a sua diversidade biológica;
 2. elaborar e implantar programa municipal de incentivo à recomposição das matas ciliares e de proteção aos mananciais;
 3. promover campanhas de sensibilização da sociedade para a redução do consumo de água e energia como contribuição para a sustentabilidade;
 4. intensificar a fiscalização sanitária e ambiental, sobretudo em Áreas de Preservação Permanente (APP), buscando cooperação nas esferas federal, estadual, municipal e na sociedade cIVIl;
 5. atuar no controle de vetores, zoonoses, poluição sonora, do ar e prevenção de riscos;
 6. atuar na limpeza dos lotes vagos e erradicação do abandono de animais;
-7. fazer gestão junto à Companhia de DesenvolVImento Econômico de Minas Gerais (CODEMIG) para VIabilizar o uso público inclusIVo do Balneário de Aguas Santas;
+7. fazer gestão junto à Companhia de Desenvolvimento Econômico de Minas Gerais (CODEMIG) para VIabilizar o uso público inclusIVo do Balneário de Aguas Santas;
 8. atuar no controle de erosão, na implantação de redes de drenagem pluVIal nas áreas urbanas e estradas municipais e na prevenção de inundações;
 9. mapear e proteger nascentes, em especial na sub-bacia do rio Elvas, onde é feita a captação para abastecimento de água do município, utilizando para isso referências da Empresa Brasileira de Pesquisa Agropecuária (EMPRAPA) e Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais(EMATER-MG)
 
@@ -618,23 +619,23 @@ Art.47 – São ações para o incremento da atuação do setor responsável pel
 1. promover ações no sentido da implantação dos parques municipais nas regiões da Candonga e do Cachéu e do parque intermunicipal Frei Veloso, este com a parceria do Instituto Estadual de Florestas (IEF).
 Paragrafo Único – Nas RPPN podem ser desenvolVIdas ativIdades de ecoturismo, educação ambiental e pesquisa científica, sendo que as mesmas são objeto de isenção do Imposto Territorial Rural (ITR) sobre a área preservada e têm direito à análise prioritária em projetos apresentados ao Fundo Nacional de Meio Ambiente e em programas de crédito rural oficiais.
 
-#### CAPÍTULO III - DA ATUAÇÃO INTERGOVERNAMENTAL PARA A PROTEÇÃO AMBIENTAL
+#### <a id="titulo-vi-capitulo-iii">CAPÍTULO III - DA ATUAÇÃO INTERGOVERNAMENTAL PARA A PROTEÇÃO AMBIENTAL</a>
 
 Art.48 – São ações no sentido da atuação intermunicipal e articulação com os níveis de governo estadual e federal:
 
 1. mobilizar as administrações municipais de Santa Cruz de Minas, São João Del Rei, Coronel XaVIer Chaves, Lagoa Dourada e Prados, juntamente com a sociedade cIVIl, para gestões junto ao Instituto Estadual de Florestas (IEF) para efetivação do Plano de Manejo da APA Serra São José;
 2. atuar regionalmente junto aos municípios da Bacia Hidrográfica Vertentes do Rio Grande – Unidade de Planejamento e Gestão de Recursos Hídricos do Rio das Mortes (GD2), com Comitê de Bacia Hidrográfica criado desde 2007 e Plano Diretor em elaboração;
 3. atuar junto ao Departamento Nacional de Produção Mineral (DNPM) no sentido de ter assegurada a sustentabilidade ambiental nas ativIdades minerárias no município, principalmente aquelas relativas à exploração e extração de areia e cascalho nos cursos d’água;
-4. incrementar a participação e a captação de recursos e benefícios junto aos planos, programas, projetos e ações da Política de Meio Ambiente e DesenvolVImento Sustentável nas esferas federal, estadual e da iniciativa prIVada.
+4. incrementar a participação e a captação de recursos e benefícios junto aos planos, programas, projetos e ações da Política de Meio Ambiente e Desenvolvimento Sustentável nas esferas federal, estadual e da iniciativa prIVada.
 
-### TÍTULO VII - DAS DIRETRIZES E AÇÕES PARA A POLITICA MUNICIPAL DE ORDENAMENTO TERRITORIAL
+### <a id="titulo-vii">TÍTULO VII - DAS DIRETRIZES E AÇÕES PARA A POLITICA MUNICIPAL DE ORDENAMENTO TERRITORIAL</a>
 
 Art.49 – A politica municipal de ordenamento territorial se expressa no estabelecimento de zonas de usos múltiplos, a partir da compreensão das diferentes realidades, vocações, tendências, tradições, usos e ocupações existentes ou desejáveis, tratando de maneira abrangente todo o território municipal.
 
 Art.50 – São diretrizes para a organização do território do município de Tiradentes:
 
 1. A construção de um ambiente urbano voltado para o atendimento aos interesses coletivos, respeitando os significados sociais e culturais da cidade e seus cidadãos e exercendo, dentre outros aspectos, o controle dos efeitos negativos decorrentes da especulação imobiliária, fazendo com que todos os imóveis cumpram a sua função social.
-2. O convíVIo dos usos dIVersos, com controle de impactos entre possíveis usos conflitantes, combinando funções públicas, moradia, ativIdades econômicas, sociais e de lazer, com espaços para circulação de pedestres e de veículos;
+2. O convíVIo dos usos diversos, com controle de impactos entre possíveis usos conflitantes, combinando funções públicas, moradia, ativIdades econômicas, sociais e de lazer, com espaços para circulação de pedestres e de veículos;
 3. O fornecimento de uma estrutura de base para implementação das demais politicas locais como proteção ambiental, desenvolVImento econômico, desenvolVImento social, incremento da cultura e do turismo;
 4. a proteção ao patrimônio tombado, incorporando a dinâmica urbana;
 5. a orientação da expansão urbana e do adensamento em regiões adequadas, segundo tendências, potencialidades e limitações;
@@ -642,7 +643,7 @@ Art.50 – São diretrizes para a organização do território do município de 
 7. a recuperação do usufruto dos espaços públicos, propiciando a inclusão e a reconstrução dos laços de pertencimento, em respeito ao direito de todos à cidade;
 8. a articulação da legislação municipal com as normas e critérios do Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN), dando clareza aos procedimentos para aprovação de construções, reformas e loteamentos, sendo a prefeitura o agente responsável e condutor dos processos de aprovação e o IPHAN parte integrante desses processos na sua área de atuação.
 
-#### CAPÍTULO I - DO MACROZONEAMENTO MUNICIPAL
+#### <a id="titulo-vii-capitulo-i">CAPÍTULO I - DO MACROZONEAMENTO MUNICIPAL</a>
 
 Art.50 – O território municipal dIVIde-se em Zonas Urbanas (ZU), Zona Rural (ZR)e Zona de Proteção Ambiental (ZPA), conforme - Anexo II – Macrozoneamento Municipal, sendo:
 
@@ -662,9 +663,9 @@ Parágrafo Único – As ativIdades de exploração extrativa vegetal e mineral,
 
 Art.52 – Na Zona Rural, destinada a usos rurais, não será permitida a aprovação de loteamentos ou condomínios imobiliários urbanos, sendo a área resultante de qualquer parcelamento ou desmembramento aquela equIValente, no mínimo, à Fração Mínima de Parcelamento (FMP) estabelecida pelo INCRA.
 
-#### CAPÍTULO II - DO MACROZONEAMENTO URBANO
+#### <a id="titulo-vii-capitulo-ii">CAPÍTULO II - DO MACROZONEAMENTO URBANO</a>
 
-Art.53 – O macrozoneamento das Zonas Urbanas indica os usos permitidos e o potencial de adensamento nos dIVersos espaços já ocupados pelos usos urbanos e nas áreas vazias dentro dos perímetros urbanos a serem ocupadas por esses usos, compreendendo o uso residencial e os usos dIVersificados compatíveis com o uso residencial, desde que:
+Art.53 – O macrozoneamento das Zonas Urbanas indica os usos permitidos e o potencial de adensamento nos diversos espaços já ocupados pelos usos urbanos e nas áreas vazias dentro dos perímetros urbanos a serem ocupadas por esses usos, compreendendo o uso residencial e os usos diversificados compatíveis com o uso residencial, desde que:
 
 1. não causem impactos negativos urbanísticos ou ambientais;
 2. não causem riscos à segurança da população;
@@ -672,7 +673,7 @@ Art.53 – O macrozoneamento das Zonas Urbanas indica os usos permitidos e o pot
 
 §1º - Os parâmetros urbanísticos para as zonas descritas serão definidos pela Lei de Uso e Ocupação do Solo, considerando-se os critérios do IPHAN para a área tombada, a disponibilidade de infraestrutura, a capacidade de adensamento e o grau de incômodo e poluição dos usos ao ambiente urbano.
 
-##### Seção I - Do Zoneamento da Sede Municipal
+##### <a id="titulo-vii-capitulo-ii-secao-i">Seção I - Do Zoneamento da Sede Municipal</a>
 
 Art.54 – O zoneamento da sede municipal compreende as seguintes zonas, conforme - Anexo III – Macrozoneamento Urbano e Articulação VIária da Sede Municipal:
 
@@ -710,7 +711,7 @@ Art.54 – O zoneamento da sede municipal compreende as seguintes zonas, conform
 
 §4º - Na ZEIUA II, as áreas ocupadas não poderão se expandir, sendo admitidas apenas obras de manutenção que não impliquem em acréscimos da área ocupada.
 
-##### Seção II - Do Zoneamento de Aguas Santas e Cesar de Pina
+##### <a id="titulo-vii-capitulo-ii-secao-ii">Seção II - Do Zoneamento de Aguas Santas e Cesar de Pina</a>
 
 Art.55 – O zoneamento de Aguas Santas e Cesar de Pina compreende as seguintes zonas, conforme - Anexo IV – Macrozoneamento Urbano de Aguas Santas e Cesar de Pina:
 
@@ -721,7 +722,7 @@ Art.55 – O zoneamento de Aguas Santas e Cesar de Pina compreende as seguintes 
 5. Zona Especial de Interesse Histórico-Cultural III (ZEIHC III), correspondendo à Igreja de Nossa Senhora da Saúde, em Águas Santas;
 6. Zona Especial de Interesse Histórico-Cultural IV (ZEIHC IV), correspondendo às instalações do Balneário de Águas Santas.
 
-##### Seção III - Do Zoneamento do Distrito de Elvas
+##### <a id="titulo-vii-capitulo-ii-secao-iii">Seção III - Do Zoneamento do Distrito de Elvas</a>
 
 Art.56 – O zoneamento do distrito de Elvas compreende as seguintes zonas, conforme - Anexo V – Macrozoneamento Urbano do Distrito de Elvas:
 
@@ -729,7 +730,7 @@ Art.56 – O zoneamento do distrito de Elvas compreende as seguintes zonas, conf
 2. Zona Residencial Mista de Adensamento Restrito (ZRM-AR), na região de Bananal, de uso misto com predominância do uso residencial e possibilidade de usos econômicos de porte local, com características de horizontalidade, sem processos de verticalização, com controle de adensamento por meio da definição de parâmetros específicos mais restritivos, sempre com controle da emissão de ruídos, poeira, odores, fumaça;
 3. Zona Especial de Interesse Histórico-Cultural V (ZEIHC V), correspondendo à Igreja de Padre Gaspar, referencia simbólica e patrimônio histórico-cultural em Elvas, sendo que deverá ser definido um perímetro de proteção no seu entorno.
 
-#### CAPÍTULO III - DO TRATAMENTO DO DISTRITO DE CAIXA D’ÁGUA DA ESPERANÇA
+#### <a id="titulo-vii-capitulo-iii">CAPÍTULO III - DO TRATAMENTO DO DISTRITO DE CAIXA D’ÁGUA DA ESPERANÇA</a>
 
 Art.57 – O distrito de Caixa D’Água da Esperança não possui perímetro urbano em seu núcleo, permanecendo como Zona Rural.
 Paragrafo Único – A ocupação na região do distrito de Caixa D’Água da Esperança deverá ser monitorada permanentemente.
@@ -739,7 +740,7 @@ Art.58 – Destacam-se no distrito de Caixa D’Água da Esperança, conforme - 
 1. Área Especial de Interesse Histórico-Cultural I (AEIHC I), correspondendo à antiga caixa d’água que abastecia as locomotivas, referencia simbólica e patrimônio histórico-cultural;
 2. Área Especial de Interesse Turístico-Cultural (AEITC), que corresponde à estrada de acesso a Caixa D’Água da Esperança, pelo seu potencial paisagístico e de turismo ligado à gastronomia.
 
-#### CAPÍTULO IV - DOS EMPREENDIMENTOS DE IMPACTO
+#### <a id="titulo-vii-capitulo-iv">CAPÍTULO IV - DOS EMPREENDIMENTOS DE IMPACTO</a>
 
 Art.59 – Empreendimentos de impacto são aqueles cujos efeitos decorrentes de sua instalação possam ocasionar a geração de efluentes poluidores, de ruídos excessIVos e/ou riscos à segurança de trabalhadores e munícipes, provocar impactos na infraestrutura instalada, sobre o meio antrópico e/ou sobre o meio natural.
 
@@ -777,13 +778,13 @@ Art.60 – Serão adotados os seguintes critérios, VIsando a redução de impac
 
 Art.61 – Pequenas indústrias não produtoras de ruídos, odores ou rejeitos poluentes, de até 200m² (duzentos metros quadrados), são permitidas em todas as zonas, desde que apresentem autorização ou licenciamento ambiental aprovado pelos órgãos municipais competentes, de acordo com a legislação ambiental e sanitária VIgente.
 
-#### CAPÍTULO V - DOS USOS NÃO CONFORMES
+#### <a id="titulo-vii-capitulo-iv">CAPÍTULO V - DOS USOS NÃO CONFORMES</a>
 
 Art.62 – A ocupação e o uso já existentes, à época da aprovação deste Plano Diretor, de construções situadas em áreas impróprias ou que não se enquadram nas definições estabelecidas, serão consideradas “uso não conforme”, sendo vedada sua expansão, sendo permitidas apenas as obras necessárias à sua manutenção, sendo obrigatória a adoção das medidas necessárias para corrigir a inconformidade, conforme a legislação VIgente.
 
-#### CAPÍTULO VI - DAS AÇÕES SETORIAIS RELATIVAS À INFRAESTRUTURA URBANA
+#### <a id="titulo-vii-capitulo-vi">CAPÍTULO VI - DAS AÇÕES SETORIAIS RELATIVAS À INFRAESTRUTURA URBANA</a>
 
-##### Seção I - Do Abastecimento de Água e Esgotamento Sanitário
+##### <a id="titulo-vii-capitulo-vi-secao-i">Seção I - Do Abastecimento de Água e Esgotamento Sanitário</a>
 
 Art.63 – São ações relativas ao abastecimento de água e esgotamento sanitário:
 
@@ -795,7 +796,7 @@ Art.63 – São ações relativas ao abastecimento de água e esgotamento sanit�
 6. promover ações no sentido de alcançar pleno atendimento nas redes coletoras do esgoto sanitário no município, incluindo os distritos de Caixa D’Água da Esperança e Elvas, dotando-os de um sistema público de esgotamento sanitário, especialmente em Elvas, em função do processo de ocupação urbana e adensamento em curso;
 7. implantar as Estações de Tratamento de Esgotos (ETE).
 
-##### Seção II - Da Coleta e Destinação Final de Resíduos Sólidos
+##### <a id="titulo-vii-capitulo-vi-secao-ii">Seção II - Da Coleta e Destinação Final de Resíduos Sólidos</a>
 
 Art.64 – São ações relativas à coleta e destinação final de resíduos sólidos:
 
@@ -806,7 +807,7 @@ Art.64 – São ações relativas à coleta e destinação final de resíduos s�
 5. implantar a destinação final adequada no município, com recuperação do atual local de destinação final;
 6. incluir os distritos de Caixa D’Água da Esperança e Elvas no sistema de coleta e destinação final de resíduos sólidos.
 
-##### Seção III - Da Drenagem Urbana
+##### <a id="titulo-vii-capitulo-vi-secao-iii">Seção III - Da Drenagem Urbana</a>
 
 Art.65 – São ações relativas à drenagem urbana:
 
@@ -814,14 +815,14 @@ Art.65 – São ações relativas à drenagem urbana:
 2. impedir a ocupação urbana em canais de drenagem natural e áreas inundáveis;
 3. controlar a ocupação existente em áreas de proteção de cursos d’água.
 
-##### Seção IV - Da Energia
+##### <a id="titulo-vii-capitulo-vi-secao-iv">Seção IV - Da Energia</a>
 
 Art.66 – São ações relativas ao fornecimento de energia no município:
 
 1. promover ações no sentido de garantir pleno atendimento à demanda local por geração de energia e iluminação pública em todo o município, considerando nesse atendimento a demanda gerada pelos eventos promoVIdos de forma a fornecer a infraestrutura necessária e não prejudicar a população local, assim como planos de expansão decorrentes do processo de desenvolVImento municipal;
 2. manter projetos e instalações que garantam a iluminação dos espaços públicos, inclusIVe iluminação pública dos becos e monumentos protegidos.
 
-##### Seção V - Da Comunicação
+##### <a id="titulo-vii-capitulo-vi-secao-v">Seção V - Da Comunicação</a>
 
 Art.67 – São ações relativas à comunicação no município:
 
@@ -829,7 +830,7 @@ Art.67 – São ações relativas à comunicação no município:
 2. ampliar o acesso à telefonia móvel;
 3. promover ações no sentido de garantir ligações locais no sistema de telefonia fixa entre Aguas Santas e Cesar de Pina e a sede municipal.
 
-##### Seção VI - Da Segurança Pública
+##### <a id="titulo-vii-capitulo-vi-secao-vi">Seção VI - Da Segurança Pública</a>
 
 Art.67 – São ações relativas à segurança pública no município:
 
@@ -838,7 +839,7 @@ Art.67 – São ações relativas à segurança pública no município:
 3. promover ações no sentido de efetivar a ampliação das câmeras de monitoramento do Programa Olho VIVo;
 4. mobilizar as comunidades de bairros e comerciantes locais para a implantação dos programas Rede de VIzinhos Protegidos e da Rede de Comércio Protegido, como estratégias de segurança pública no sentido da ação preventiva;
 5. desenvolver política de segurança para o patrimônio cultural relacionada à ocorrência de eventos realizados durante todo o ano;
-6. elaborar Plano Municipal de Segurança Pública, considerando a sua característica de ser um município histórico e turístico, segundo o marco institucional do Plano Nacional de Segurança Pública, que prevê a integração das políticas de segurança com as demais políticas, em especial as políticas sociais e ações comunitárias, com a participação de diferentes órgãos governamentais em todos os níveis e dos dIVersos atores locais no seu desenvolVImento, como, entre outros, as Polícias Militar e CIVIl, comunidade e empresariado local, escolas, Corpo de Bombeiros Militar, Corpo de Bombeiros Voluntários, IPHAN;
+6. elaborar Plano Municipal de Segurança Pública, considerando a sua característica de ser um município histórico e turístico, segundo o marco institucional do Plano Nacional de Segurança Pública, que prevê a integração das políticas de segurança com as demais políticas, em especial as políticas sociais e ações comunitárias, com a participação de diferentes órgãos governamentais em todos os níveis e dos diversos atores locais no seu desenvolVImento, como, entre outros, as Polícias Militar e CIVIl, comunidade e empresariado local, escolas, Corpo de Bombeiros Militar, Corpo de Bombeiros Voluntários, IPHAN;
 7. considerar a criação de uma Coordenadoria Municipal de Segurança Pública e a instituição de efetiva do Conselho de Segurança Pública e do Fundo Municipal de Segurança Pública, destinados ao atendimento da segurança pública em Tiradentes, condicionantes de enquadramento para acesso ao Fundo Nacional de Segurança Pública;
 8. considerar a criação da Guarda Municipal, cuja VIabilização implica equacionamento de disponibilidade orçamentária e financeira para implantação e manutenção;
 9. promover ações no sentido da implantação no município de unidade do Corpo de Bombeiros Militar, especialmente considerada a alta carga de incêndio das edificações históricas, o que implica necessidade de mobilização imediata de recursos e agilidade para o seu combate caso ocorram, além de facilitar ações de prevenção no município;
@@ -849,7 +850,7 @@ Art.67 – São ações relativas à segurança pública no município:
 
 1. manter estreito e cordial relacionamento com as autoridades policiais locais e regionais e com os municípios VIzinhos, criando fóruns de discussão sobre questões comuns que os afetam em relação à segurança pública e defesa cIVIl, com o objetivo de definir ações comuns que busquem a combate e a redução da criminalidade e à defesa cIVIl.
 
-#### CAPÍTULO VII - DA MOBILIDADE E ACESSIBILIDADE
+#### <a id="titulo-vii-capitulo-vi-secao-vii">CAPÍTULO VII - DA MOBILIDADE E ACESSIBILIDADE</a>
 
 Art.68 – A mobilidade urbana se fundamenta na classificação dos logradouros públicos como instrumento que busca a ordenação VIária das áreas urbanas do município, por meio da distribuição equilibrada da circulação de veículos, pessoas e bens, consolidando a proteção ao patrimônio cultural de forma articulada às políticas urbanas propostas e à vocação turística do município.
 
@@ -886,14 +887,14 @@ Art.71 – São diretrizes para a mobilidade no município:
 
 Art.72 – São diretrizes e ações para a acessibilidade e o transporte público no município:
 
-1. planejar, gerenciar, coordenar e fiscalizar os serviços de transportes de todos os modais que efetuem o transporte público de passageiros, incluindo ônibus, táxi, transporte escolar, transporte fretado e turístico em todo o território municipal, integrando o sistema de transporte e circulação, entre as dIVersas áreas urbanas e rurais do município;
+1. planejar, gerenciar, coordenar e fiscalizar os serviços de transportes de todos os modais que efetuem o transporte público de passageiros, incluindo ônibus, táxi, transporte escolar, transporte fretado e turístico em todo o território municipal, integrando o sistema de transporte e circulação, entre as diversas áreas urbanas e rurais do município;
 2. priorizar a circulação do transporte coletivo sobre o transporte indIVIdual na ordenação do sistema VIário;
 3. garantir a unIVersalidade do transporte público, em especial nas áreas rurais e naquelas ocupadas por população de baixa renda;
 4. VIncular o planejamento e a implantação da infraestrutura física de circulação e de transporte público às diretrizes de planejamento contidas no Plano Diretor;
 5. promover a participação da sociedade na gestão, fiscalização e controle do sistema de transporte;
 6. adequar a oferta de transportes à demanda, compatibilizando seus efeitos indutores com os objetivos e diretrizes de uso e ocupação do solo, contribuindo, em especial, para a requalificação dos espaços urbanos e articulação entre centros e bairros.
 
-#### CAPÍTULO VIII – DOS INSTRUMENTOS DE POLÍTICA URBANA
+#### <a id="titulo-vii-capitulo-viii">CAPÍTULO VIII – DOS INSTRUMENTOS DE POLÍTICA URBANA</a>
 
 Art.73 – Sendo o município o principal responsável pela promoção da política urbana e sendo o Plano Diretor o instrumento por excelência para efetivação dessa política, tendo como principal objetivo o estabelecimento das exigências fundamentais de ordenação da cidade para o cumprimento de sua função social, fica estabelecida a obrigatoriedade de serem definidas as áreas onde serão aplicados os instrumentos preVIstos na Lei Federal n° 10.257, de 10/07/2001 – Estatuto da Cidade, sem prejuízo de outros constantes nas legislações municipal, estadual e federal, considerando em especial o art. 42 do referido Estatuto.
 
@@ -964,9 +965,9 @@ Art.74 – Ficam definidos como instrumentos para a promoção, o planejamento, 
 
 Parágrafo Único - A aplicação dos instrumentos a que se refere o artigo anterior dependerá de legislações municipais específicas aprovadas pela Câmara Municipal, as quais deverão ser elaboradas de acordo com os preceitos estabelecidos no Estatuto da Cidade.
 
-Art.75 – Outros instrumentos de política urbana preVIstos no Estatuto da Cidade e de aplicação não preVIsta nesta Lei poderão ser utilizados, se indicada a sua necessidade a partir de estudos sobre a dinâmica municipal, mediante análise e deliberação do Conselho Municipal de DesenvolVImento Urbano, com posterior encaminhamento de anteprojeto de lei do Executivo municipal à Câmara de Vereadores, para apreciação e aprovação.
+Art.75 – Outros instrumentos de política urbana preVIstos no Estatuto da Cidade e de aplicação não preVIsta nesta Lei poderão ser utilizados, se indicada a sua necessidade a partir de estudos sobre a dinâmica municipal, mediante análise e deliberação do Conselho Municipal de Desenvolvimento Urbano, com posterior encaminhamento de anteprojeto de lei do Executivo municipal à Câmara de Vereadores, para apreciação e aprovação.
 
-##### Seção I – Do Parcelamento, Edificação ou Utilização Compulsórios
+##### <a id="titulo-vii-capitulo-viii-secao-i">Seção I – Do Parcelamento, Edificação ou Utilização Compulsórios</a>
 
 Art.76 – Definem-se como parcelamento, edificação ou utilização compulsórios a obrigatoriedade de parcelamento, edificação ou utilização do solo urbano não edificado, subutilizado ou não utilizado, que deverá ser instituída por meio de lei municipal específica que fixará as condições e os prazos para implementação da referida obrigação, de acordo com o Estatuto da Cidade.
 
@@ -976,9 +977,9 @@ Art.76 – Definem-se como parcelamento, edificação ou utilização compulsór
 
 § 3º - Considera-se solo urbano não utilizado edificações na sede municipal que tenham 80% (oitenta por cento) de sua área construída desocupada há mais de 5 (cinco) anos, ressalvados casos jurídicos ou judiciais.
 
-Art.77 – O parcelamento, a edificação ou utilização compulsórios poderão ser aplicadas em todos os perímetros urbanos do município de Tiradentes, excetuando-se as áreas de proteção e/ou de preservação do patrimônio histórico, cultural e ambiental, sempre considerando a dinâmica municipal, a necessidade de estruturação urbana e a capacidade de suporte dos terrenos e da infraestrutura ofertada, mediante análise e deliberação do Conselho Municipal de DesenvolVImento Urbano.
+Art.77 – O parcelamento, a edificação ou utilização compulsórios poderão ser aplicadas em todos os perímetros urbanos do município de Tiradentes, excetuando-se as áreas de proteção e/ou de preservação do patrimônio histórico, cultural e ambiental, sempre considerando a dinâmica municipal, a necessidade de estruturação urbana e a capacidade de suporte dos terrenos e da infraestrutura ofertada, mediante análise e deliberação do Conselho Municipal de Desenvolvimento Urbano.
 
-Parágrafo Único – Os instrumentos preVIstos nesta ##### Seção não se aplicam a imóveis com área igual ou menor que 360m² (trezentos e sessenta metros quadrados), cujo proprietário não possua outros imóveis passíveis de aplicação desses instrumentos.
+Parágrafo Único – Os instrumentos preVIstos nesta seção não se aplicam a imóveis com área igual ou menor que 360m² (trezentos e sessenta metros quadrados), cujo proprietário não possua outros imóveis passíveis de aplicação desses instrumentos.
 
 Art.78 – Em caso de descumprimento do preVIsto no artigo anterior, o município poderá proceder à aplicação do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) progressIVo no tempo, mediante a majoração da alíquota pelo prazo de cinco anos consecutivos.
 
@@ -994,7 +995,7 @@ Art.79 – Decorridos cinco anos de cobrança do IPTU progressIVo sem que o prop
 
 § 3º - Ficam mantidas para o adquirente de imóvel nos termos do parágrafo anterior as mesmas obrigações de parcelamento, edificação ou utilização preVIstas nesta lei.
 
-##### Seção II - Do Direito de Preempção
+##### <a id="titulo-vii-capitulo-viii-secao-ii">Seção II - Do Direito de Preempção</a>
 
 Art.80 – Define-se como direito de preempção a prioridade do município na aquisição de imóveis urbanos objeto de alienação onerosa entre particulares para implantação de planos, programas e projetos de interesse público referentes a:
 
@@ -1011,17 +1012,17 @@ Art.80 – Define-se como direito de preempção a prioridade do município na a
 
 § 2º - A lei municipal específica de que trata o parágrafo anterior deverá regulamentar as condições e os prazos para implementação do direito de preempção.
 
-##### Seção III - Do Direito de Superfície
+##### <a id="titulo-vii-capitulo-viii-secao-iii">Seção III - Do Direito de Superfície</a>
 
 Art.81 – Define-se como direito de superfície o direito do proprietário urbano conceder a outrem o direito de superfície do seu terreno, de modo gratuito ou oneroso, por tempo determinado ou indeterminado, mediante escritura pública registrada no cartório de registro de imóveis, abrangendo o direito de utilizar o solo, o subsolo ou o espaço aéreo relativo ao terreno, na forma estabelecida no contrato respectivo, atendida a legislação urbanística e respeitando-se a legislação federal pertinente.
 
 Parágrafo Único - Fica o Executivo municipal autorizado a exercer o direito de superfície em áreas particulares onde haja carência de equipamentos públicos e comunitários e naquelas de interesse para o desenvolVImento econômico.
 
-##### Seção IV - Das Operações Urbanas Consorciadas
+##### <a id="titulo-vii-capitulo-viii-secao-iv">Seção IV - Das Operações Urbanas Consorciadas</a>
 
 Art.82 – Define-se como operações urbanas consorciadas o conjunto de intervenções coordenadas pelo Executivo e com a participação de investidores prIVados, entidades da iniciativa prIVada, associações comunitárias e proprietários, objetivando projetos urbanísticos especiais, implantação de infraestrutura básica, de equipamentos públicos ou de empreendimentos de interesse social, em áreas preVIamente delimitadas, de propriedade pública ou prIVada, segundo condições estabelecidas por lei específica.
 
-§ 1º - A operação urbana consorciada pode ser proposta ao Executivo por qualquer cidadão ou entidade que nela tenha interesse, sendo que qualquer modificação de parâmetros urbanísticos está sujeito à análise e deliberação do Conselho Municipal de DesenvolVImento Urbano.
+§ 1º - A operação urbana consorciada pode ser proposta ao Executivo por qualquer cidadão ou entidade que nela tenha interesse, sendo que qualquer modificação de parâmetros urbanísticos está sujeito à análise e deliberação do Conselho Municipal de Desenvolvimento Urbano.
 
 § 2º - As operações urbanas consorciadas poderão envolver intervenções como:
 
@@ -1058,7 +1059,7 @@ Art.84 – As operações urbanas consorciadas deverão ser preVIstas em leis es
 
 Art.85 – Os recursos levantados para a realização das operações urbanas somente poderão ser aplicados nas próprias operações urbanas consorciadas.
 
-##### Seção V - Do Estudo de Impacto de VIzinhança
+##### <a id="titulo-vii-capitulo-viii-secao-v">Seção V - Do Estudo de Impacto de VIzinhança</a>
 
 Art.86 – O Estudo de Impacto de VIzinhança (EIV) tem por objetivo analisar os impactos decorrentes de empreendimentos a serem realizados nas áreas urbanas de Tiradentes, em especial nos bens e conjunto tombados e seu entorno.
 
@@ -1086,9 +1087,9 @@ Art.88 – Dependerão de elaboração de EIV, sem prejuízo de outros estudos a
 
 1. nas zonas de proteção ao patrimônio histórico-cultural e ambiental como a APA Serra de São José, ZPA I, ZHC, ZEIHC, AEIHC, AEITC, definidas nesta lei e no seus entornos;
 2. em qualquer zona, para as ativIdades definidas como empreendimentos de impacto neste Plano Diretor;
-3. além daqueles para os quais o Conselho Municipal de DesenvolVImento Urbano e os conselhos de proteção ao patrimônio histórico-cultural e ambiental deliberarem como necessário.
+3. além daqueles para os quais o Conselho Municipal de Desenvolvimento Urbano e os conselhos de proteção ao patrimônio histórico-cultural e ambiental deliberarem como necessário.
 
-##### Seção VI - Da Regularização Urbanística e Fundiária
+#### <a id="titulo-vii-capitulo-viii-secao-vi">Seção VI - Da Regularização Urbanística e Fundiária</a>
 
 Art.89 – São instrumentos de regularização urbanística e fundiária preVIstos no Estatuto da Cidade para aplicação no município de Tiradentes, nas Zonas Especiais de Interesse Social (ZEIS) quando for o caso:
 
@@ -1101,7 +1102,7 @@ Art.90 – A concessão do direito real de uso é um instrumento jurídico que p
 
 Art.91 – A concessão de uso especial para fins de moradia atenderá à Medida ProVIsória 2.220, de 4 de setembro de 2001, e dará suporte aos programas de regularização urbanística e fundiária, em caso de necessidade.
 
-Art.92 – O instrumento da usucapião especial de imóvel urbano, na modalidade indIVIdual ou coletiva, será aplicado com fundamento no art. 183 da Constituição Federal e na ##### Seção correspondente do Estatuto da Cidade, nos seus artigos 9° a 14.
+Art.92 – O instrumento da usucapião especial de imóvel urbano, na modalidade indIVIdual ou coletiva, será aplicado com fundamento no art. 183 da Constituição Federal e na Seção correspondente do Estatuto da Cidade, nos seus artigos 9° a 14.
 
 Art.93 – A regularização deverá abranger os aspectos ambiental, urbanístico e fundiário e deverá integrar o Plano Local de Habitação de Interesse Social (PLHIS), atendendo aos critérios estabelecidos em legislação específica, tendo como objetivo final a titulação dos proprietários.
 
@@ -1124,7 +1125,7 @@ Art.93 – A regularização deverá abranger os aspectos ambiental, urbanístic
 5. em áreas formadas há menos de 12 (doze) meses da aprovação desta lei.
 
 
-### TÍTULO VIII - DAS DIRETRIZES PARA A DIMENSÃO INSTITUCIONAL
+### <a id="titulo-viii">TÍTULO VIII - DAS DIRETRIZES PARA A DIMENSÃO INSTITUCIONAL</a>
 
 Art.94 – O processo de gestão do Plano Diretor será conduzido pelo Executivo Municipal, pela Câmara Legislativa e pela sociedade cIVIl organizada, de forma participativa.
 
@@ -1132,10 +1133,11 @@ Art.95 – Será adotado o modelo de gestão integrada e intersetorial das polí
 
 Art.96 – O Executivo Municipal deverá ser fortalecido, de forma a ampliar a capacidade de gestão pública no município, dar maior transparência quanto a ações e recursos investidos, ampliando também a governança municipal, com o objetivo de construir uma agenda comum com maior efetivIdade na implementação das políticas públicas, considerando as diretrizes estabelecidas pelo Plano Diretor.
 
-Art.97 – Para institucionalizar os espaços de participação e avançar no sentido de uma maior qualificação quanto à participação da sociedade na definição, fiscalização, monitoramento e avaliação das políticas e programas implementados, será fortalecido o Conselho Municipal de DesenvolVImento Urbano, constituído de forma paritária e com funções normativas, consultivas e deliberativas.
+Art.97 – Para institucionalizar os espaços de participação e avançar no sentido de uma maior qualificação quanto à participação da sociedade na definição, fiscalização, monitoramento e avaliação das políticas e programas implementados, será fortalecido o Conselho Municipal de Desenvolvimento Urbano, constituído de forma paritária e com funções normativas, consultivas e deliberativas.
 
-Parágrafo Único – Para a ampliação preVIsta no caput deste artigo, deverá ser buscada a identificação, a sensibilização e a qualificação dos estoques do capital social do município, de forma a permitir a representativIdade dos atores sociais e dos segmentos sociais na estrutura de composição do Conselho Municipal de DesenvolVImento Urbano.
-- Capítulo I – DO FORTALECIMENTO DA ADMINISTRAÇÃO MUNICIPAL
+Parágrafo Único – Para a ampliação preVIsta no caput deste artigo, deverá ser buscada a identificação, a sensibilização e a qualificação dos estoques do capital social do município, de forma a permitir a representativIdade dos atores sociais e dos segmentos sociais na estrutura de composição do Conselho Municipal de Desenvolvimento Urbano.
+
+#### <a id="titulo-viii-capitulo-i">Capítulo I – DO FORTALECIMENTO DA ADMINISTRAÇÃO MUNICIPAL</a>
 
 Art.98 – São diretrizes e ações para o fortalecimento da administração municipal para gestão do Plano Diretor:
 
@@ -1149,7 +1151,7 @@ Art.98 – São diretrizes e ações para o fortalecimento da administração mu
 8. prever cobertura orçamentária para a implementação do Plano Diretor;
 9. buscar beneficiar-se das ações do Programa de Fortalecimento da Gestão Urbana da Secretaria Nacional de Programas Urbanos (SNPU), o qual VIsa fortalecer a capacidade técnica e institucional dos municípios, com o foco no planejamento e na gestão urbana participativos;
 
-1. buscar alinhamento entre as demandas municipais e as ações do estado por meio do apoio e da orientação da Secretaria de Estado de DesenvolVImento Regional e Politica Urbana (SEDRU) e do Conselho Estadual de DesenvolVImento regional e Politica Urbana (CONEDRU), assim como da Câmara Regional do CONEDRU que atua na Microrregião dos Campos das Vertentes, com participação nos programas, ações e ativIdades desses órgãos relativos ao planejamento e gestão urbana, ao associativIsmo municipal, aos consórcios públicos e à estruturação e fortalecimento do Conselho Municipal de DesenvolVImento Urbano;
+1. buscar alinhamento entre as demandas municipais e as ações do estado por meio do apoio e da orientação da Secretaria de Estado de Desenvolvimento Regional e Politica Urbana (SEDRU) e do Conselho Estadual de Desenvolvimento regional e Politica Urbana (CONEDRU), assim como da Câmara Regional do CONEDRU que atua na Microrregião dos Campos das Vertentes, com participação nos programas, ações e ativIdades desses órgãos relativos ao planejamento e gestão urbana, ao associativIsmo municipal, aos consórcios públicos e à estruturação e fortalecimento do Conselho Municipal de Desenvolvimento Urbano;
 
 1. ampliar a participação na Associação dos Municípios da Microrregião dos Campos das Vertentes (AMVER);
 
@@ -1166,11 +1168,12 @@ Parágrafo Único – A adequação de que trata o inciso I deste artigo deverá
 7. a inclusão no Departamento de Cultura e Turismo de setor específico responsável pela área de eventos, além daqueles responsáveis pelo turismo e pela cultura;
 8. o redimensionamento da estrutura física onde se encontram instalados os setores da administração pública, buscando a efetivIdade no atendimento à população, incluindo a separação entre as ativIdades de gestão e atendimento no Departamento de Saúde;
 9. a avaliação da pertinência da transformação dos departamentos em secretarias, tendo em VIsta o status de município turístico de abrangência nacional.
-- Capítulo II – DO SISTEMA MUNICIPAL DE PLANEJAMENTO E GESTÃO
+
+#### <a id="titulo-viii-capitulo-ii">Capítulo II – DO SISTEMA MUNICIPAL DE PLANEJAMENTO E GESTÃO</a>
 
 Art.99 – Para a implementação do Plano Diretor, o Executivo Municipal criará o Sistema de Planejamento e Gestão, VIsando a coordenação das ações decorrentes do Plano Diretor.
 
-Art.100 – Entende-se por Sistema de Planejamento e Gestão o conjunto de órgãos, normas, recursos humanos e técnicos objetivando a coordenação das ações dos setores público e prIVado e da sociedade em geral, a integração entre os dIVersos programas setoriais, com recortes territoriais e a dinamização e modernização da ação governamental.
+Art.100 – Entende-se por Sistema de Planejamento e Gestão o conjunto de órgãos, normas, recursos humanos e técnicos objetivando a coordenação das ações dos setores público e prIVado e da sociedade em geral, a integração entre os diversos programas setoriais, com recortes territoriais e a dinamização e modernização da ação governamental.
 
 Art.101 – O Sistema de Planejamento e Gestão, conduzido pelo setor público, deverá garantir a necessária transparência e a participação dos cidadãos e de entidades representativas, com as seguintes atribuições:
 
@@ -1184,19 +1187,19 @@ Art.101 – O Sistema de Planejamento e Gestão, conduzido pelo setor público, 
 Art.102 – São componentes do Sistema de Planejamento e Gestão:
 
 1. Setor responsável pela implementação do Plano Diretor, no âmbito da estrutura do Executivo Municipal, VIsando a coordenação das ações decorrentes do Plano Diretor;
-2. Conselho Municipal de DesenvolVImento Urbano;
-3. Fundo para o DesenvolVImento Urbano (FDU);
+2. Conselho Municipal de Desenvolvimento Urbano;
+3. Fundo para o Desenvolvimento Urbano (FDU);
 4. Sistema Municipal de Informações, articulado com o CadÚnico;
 5. Conferência Municipal da Cidade.
 
-##### Seção I – Do Setor Responsável pela Implementação do Plano Diretor
+##### <a id="titulo-viii-capitulo-ii-secao-i">Seção I – Do Setor Responsável pela Implementação do Plano Diretor</a>
 
 Art.103 – São atribuições do setor responsável pela implementação do Plano Diretor, no âmbito da estrutura do Executivo Municipal:
 
 1. cumprir o papel de Secretaria Executiva do Plano Diretor;
 2. proceder à aplicação e fiscalização do Plano Diretor e da legislação urbanística básica;
 3. proceder à aprovação, acompanhamento e fiscalização de projetos de parcelamento do solo e edificações inclusIVe relativos ao patrimônio histórico-cultural e ambiental
-4. participar do monitoramento das políticas públicas municipais, em articulação com a comunidade e demais entidades e órgãos da administração municipal, acompanhando a implementação dos planos, programas e projetos municipais, assegurando a integração das dIVersas ações entre si e às diretrizes do Plano Diretor;
+4. participar do monitoramento das políticas públicas municipais, em articulação com a comunidade e demais entidades e órgãos da administração municipal, acompanhando a implementação dos planos, programas e projetos municipais, assegurando a integração das diversas ações entre si e às diretrizes do Plano Diretor;
 5. compatibilizar e acompanhar a execução dos orçamentos, dos programas e dos projetos setoriais relacionados com a estrutura urbana e territorial do município;
 6. promover, juntamente com o setor responsável, a implantação do Cadastro Territorial Multifinalitário, georreferenciado, incorporando e atualizando o Cadastro Técnico Municipal;
 7. promover, juntamente com o setor responsável, a reVIsão e adequação do Código Tributário Municipal, VIsando sua adequação aos instrumentos preVIstos pelo Plano Diretor e pelo Estatuto da Cidade;
@@ -1209,9 +1212,9 @@ Art.103 – São atribuições do setor responsável pela implementação do Pla
 
 1. opinar preVIamente sobre planos, programas e projetos que terão repercussão na estrutura urbana e territorial do município.
 
-##### Seção II – Do Conselho Municipal de DesenvolVImento Urbano
+##### <a id="titulo-viii-capitulo-ii-secao-ii">Seção II – Do Conselho Municipal de Desenvolvimento Urbano</a>
 
-Art.104 – O Conselho Municipal de DesenvolVImento Urbano terá as seguintes atribuições:
+Art.104 – O Conselho Municipal de Desenvolvimento Urbano terá as seguintes atribuições:
 
 1. realizar a cada 3 anos a Conferência Municipal da Cidade em consonância com a Conferência Nacional e Estadual das Cidades a serem convocadas pelos governos federal e estadual, da qual resultarão propostas de encaminhamento da política urbana e territorial e de reVIsão da legislação urbanística municipal, além da discussão de temas de âmbito nacional e estadual propostos pelos respectivos níveis de governo;
 2. elaborar o seu regimento interno;
@@ -1227,7 +1230,7 @@ Art.104 – O Conselho Municipal de DesenvolVImento Urbano terá as seguintes at
 
 1. acompanhar e fiscalizar o cumprimento de todos os prazos preVIstos no Plano Diretor, definir aqueles que não se encontram estabelecidos, assim como acompanhar e fiscalizar todos os temas remetidos para legislação específica.
 
-Art.105 – O Conselho Municipal de DesenvolVImento Urbano será constituído por representantes de todos os segmentos sociais existentes no município, nas áreas urbanas e nas áreas rurais, com membros efetivos e seus respectivos suplentes, tendo como referência a Resolução nº 13 e a proporcionalidade definida na Resolução Normativa nº. 04, de 06 de dezembro de 2006, do Conselho Nacional das Cidades, considerando os seguintes segmentos:
+Art.105 – O Conselho Municipal de Desenvolvimento Urbano será constituído por representantes de todos os segmentos sociais existentes no município, nas áreas urbanas e nas áreas rurais, com membros efetivos e seus respectivos suplentes, tendo como referência a Resolução nº 13 e a proporcionalidade definida na Resolução Normativa nº. 04, de 06 de dezembro de 2006, do Conselho Nacional das Cidades, considerando os seguintes segmentos:
 
 1. poder executivo, legislativo, judiciário, Ministério Público, IPHAN e concessionárias de serviços públicos, com 40%;
 2. moVImentos sociais e populares, associações de moradores, nas áreas urbanas e rurais, com 30%;
@@ -1236,30 +1239,30 @@ Art.105 – O Conselho Municipal de DesenvolVImento Urbano será constituído po
 5. entidades profissionais, acadêmicas e de pesquisa e conselhos profissionais, com 5%;
 6. entidades culturais, ambientais e terceiro setor, com 5%.
 
-§ 1º - Os membros do Conselho Municipal de DesenvolVImento Urbano serão eleitos nas Conferencias Municipais da Cidade e o mandato será de 3 anos, com direito a reeleição.
+§ 1º - Os membros do Conselho Municipal de Desenvolvimento Urbano serão eleitos nas Conferencias Municipais da Cidade e o mandato será de 3 anos, com direito a reeleição.
 
-§ 2º - Os membros do Conselho Municipal de DesenvolVImento Urbano não têm direito a remuneração pró-labore.
+§ 2º - Os membros do Conselho Municipal de Desenvolvimento Urbano não têm direito a remuneração pró-labore.
 
-Art.106 – O suporte técnico e administrativo necessário ao funcionamento do Conselho Municipal de DesenvolVImento Urbano será prestado por todos os demais componentes do Sistema de Planejamento e Gestão.
+Art.106 – O suporte técnico e administrativo necessário ao funcionamento do Conselho Municipal de Desenvolvimento Urbano será prestado por todos os demais componentes do Sistema de Planejamento e Gestão.
 
-Art.107 – As reuniões do Conselho Municipal de DesenvolVImento Urbano serão, no mínimo, mensais e serão públicas, facultado aos cidadãos solicitar, por escrito e com justificativa, que se inclua assunto de seu interesse na pauta em reunião subsequente.
+Art.107 – As reuniões do Conselho Municipal de Desenvolvimento Urbano serão, no mínimo, mensais e serão públicas, facultado aos cidadãos solicitar, por escrito e com justificativa, que se inclua assunto de seu interesse na pauta em reunião subsequente.
 
-Art.108 – Extraordinariamente, para a primeira gestão do Conselho Municipal de DesenvolVImento Urbano após a aprovação do Plano Diretor, o Executivo Municipal elaborará decreto e dará posse aos membros do Conselho Municipal de DesenvolVImento Urbano no prazo de 120 (cento e VInte) dias contados a partir da publicação do Plano Diretor.
+Art.108 – Extraordinariamente, para a primeira gestão do Conselho Municipal de Desenvolvimento Urbano após a aprovação do Plano Diretor, o Executivo Municipal elaborará decreto e dará posse aos membros do Conselho Municipal de Desenvolvimento Urbano no prazo de 120 (cento e VInte) dias contados a partir da publicação do Plano Diretor.
 Paragrafo Único – Os membros a que se refere o caput deste artigo serão indicados pelos segmentos preVIstos no artigo 105, assegurando-se a representativIdade definida em seus incisos.
 
-Art.109 – Qualquer secretaria municipal poderá solicitar sua participação nas reuniões do Conselho Municipal de DesenvolVImento Urbano onde será discutido e decidido assunto que julgue afeto às políticas setoriais de sua responsabilidade.
+Art.109 – Qualquer secretaria municipal poderá solicitar sua participação nas reuniões do Conselho Municipal de Desenvolvimento Urbano onde será discutido e decidido assunto que julgue afeto às políticas setoriais de sua responsabilidade.
 
-##### Seção III – Do Fundo de DesenvolVImento Urbano
+##### <a id="titulo-viii-capitulo-ii-secao-iii">Seção III – Do Fundo de Desenvolvimento Urbano</a>
 
-Art.110 – Será constituído o Fundo de DesenvolVImento Urbano (FDU), VInculado ao executivo municipal, no setor responsável pela implantação do Plano Diretor, com recursos provenientes da aplicação dos instrumentos preVIstos no Estatuto da Cidade, assim como de outras fontes, tendo como objetivo o financiamento de programas e projetos voltados para a melhoria da qualidade urbana, destacando programas de regularização fundiária, habitação de interesse social, saneamento ambiental, mobilidade urbana e defesa do patrimônio cultural e natural, considerando:
+Art.110 – Será constituído o Fundo de Desenvolvimento Urbano (FDU), VInculado ao executivo municipal, no setor responsável pela implantação do Plano Diretor, com recursos provenientes da aplicação dos instrumentos preVIstos no Estatuto da Cidade, assim como de outras fontes, tendo como objetivo o financiamento de programas e projetos voltados para a melhoria da qualidade urbana, destacando programas de regularização fundiária, habitação de interesse social, saneamento ambiental, mobilidade urbana e defesa do patrimônio cultural e natural, considerando:
 
 1. a equidade, a justiça social, a democratização da terra urbana e a função social da propriedade e da cidade;
 2. o reforço do controle, da prudência fiscal e da transparência na gestão e uso dos recursos;
 3. o maior controle social sobre a utilização dos recursos.
 
-Art.111 – O Executivo Municipal terá o prazo de 180 (cento e oitenta) dias, contados a partir da publicação do Plano Diretor para a constituição e regulamentação do Fundo de DesenvolVImento Urbano (FDU).
+Art.111 – O Executivo Municipal terá o prazo de 180 (cento e oitenta) dias, contados a partir da publicação do Plano Diretor para a constituição e regulamentação do Fundo de Desenvolvimento Urbano (FDU).
 
-##### Seção IV – Do Sistema Municipal de Informações
+##### <a id="titulo-viii-capitulo-ii-secao-iv">Seção IV – Do Sistema Municipal de Informações</a>
 
 Art.112 – O Executivo Municipal criará o Sistema Municipal de Informações constituído por um banco de dados georreferenciado, tendo como base o Cadastro Técnico Municipal (CTM), articulado ao CadÚnico, abrangendo as áreas urbanas e rurais e contemplado a instituição de unidades de planejamento no território municipal, de forma a possibilitar a articulação das políticas sociais entre si, delas com a política urbana, com a preservação ambiental e com as políticas econômicas.
 
@@ -1269,15 +1272,15 @@ Art.114 – O Sistema Municipal de Informações deverá estar embasado em uma r
 
 Art.115 – O Sistema Municipal de Informações conterá e manterá atualizados dados, informações e indicadores sociais, culturais, econômicos, financeiros, patrimoniais, ambientais, administrativos, físico-territoriais, cartográficos, imobiliários e outros de relevante interesse para o município.
 
-Art.116 – Consideram-se como instrumentos fundamentais para o monitoramento da estruturação territorial as dIVersas formas de cartografia básica e temática e o imageamento territorial por satélite, com os quais o Sistema Municipal de Informações deverá se instrumentalizar, mantendo atualizadas as bases cartográficas da cidade e do município.
+Art.116 – Consideram-se como instrumentos fundamentais para o monitoramento da estruturação territorial as diversas formas de cartografia básica e temática e o imageamento territorial por satélite, com os quais o Sistema Municipal de Informações deverá se instrumentalizar, mantendo atualizadas as bases cartográficas da cidade e do município.
 
-##### Seção V – Da Conferência Municipal da Cidade
+##### <a id="titulo-viii-capitulo-ii-secao-v">Seção V – Da Conferência Municipal da Cidade</a>
 
 Art.117 – A Conferência Municipal da Cidade integra o processo de discussão pública e ampliada da política urbana e territorial onde o cidadão terá direito a voz e voto através de seus representantes eleitos por segmentos sociais, VIsando avaliar a execução e propor alterações na política e na legislação de desenvolVImento urbano e territorial municipal.
 
 Art.118 – Compete ao Executivo Municipal convocar e dar assistência técnica e administrativa à Conferência Municipal da Cidade dentro do processo de discussão nacional, quando convocada pelo Ministério das Cidades.
 
-### TÍTULO IX - DAS DISPOSIÇÕES FINAIS
+### <a id="titulo-ix">TÍTULO IX - DAS DISPOSIÇÕES FINAIS</a>
 
 Art.119 – O Plano Plurianual, a Lei de Diretrizes Orçamentárias, os orçamentos anuais, a política tributária municipal, a legislação urbanística básica e a legislação ambiental, bem como todos os planos e ações da administração pública, deverão estar de acordo com os preceitos estabelecidos nesta lei, constituindo-se em instrumentos complementares para a aplicação deste Plano Diretor, sem prejuízo de outros preVIstos na legislação federal, estadual e municipal.
 
@@ -1289,11 +1292,11 @@ Art.119 – O Plano Plurianual, a Lei de Diretrizes Orçamentárias, os orçamen
 
 Art.120 – Caberá aos órgãos do Poder Executivo Municipal a efetiva implantação das ações e estratégias apontadas neste Plano Diretor, nas suas respectivas áreas de atuação setorial, em conformidade com o conteúdo geral desta lei, sempre buscando as parcerias necessárias, seja na sociedade cIVIl, na iniciativa prIVada, no âmbito local ou nas esferas superiores de governo.
 
-§ 1º - A adequação e fortalecimento do Conselho Municipal de DesenvolVImento Urbano e de todos os outros conselhos municipais preVIstos nos sistemas nacionais das politicas setoriais deverão ocorrer no prazo máximo de 6 (seis) meses após a aprovação deste Plano Diretor.
+§ 1º - A adequação e fortalecimento do Conselho Municipal de Desenvolvimento Urbano e de todos os outros conselhos municipais preVIstos nos sistemas nacionais das politicas setoriais deverão ocorrer no prazo máximo de 6 (seis) meses após a aprovação deste Plano Diretor.
 
 § 2º - A adequação da estrutura administrativa da prefeitura municipal, VIsando a aplicação deste Plano Diretor e da legislação urbanística dele decorrente deverá ocorrer no prazo máximo de 12 (doze) meses após a aprovação deste Plano Diretor.
 
-§ 3º - O Executivo expedirá os decretos, portarias, instrumentos jurídico-normativos ou técnicos e demais atos administrativos que se fizerem necessários à regulamentação e fiel observância das disposições desta lei, nos prazos a serem definidos em conjunto com as equipes municipais e com o Conselho Municipal de DesenvolVImento Urbano.
+§ 3º - O Executivo expedirá os decretos, portarias, instrumentos jurídico-normativos ou técnicos e demais atos administrativos que se fizerem necessários à regulamentação e fiel observância das disposições desta lei, nos prazos a serem definidos em conjunto com as equipes municipais e com o Conselho Municipal de Desenvolvimento Urbano.
 
 Art.121 – A observância a todas as disposições estabelecidas desse Plano Diretor deve constar, especificamente, dos contratos de prestação de serviços, concessões e delegações da municipalidade.
 
@@ -1322,20 +1325,20 @@ Tiradentes, 14 de Abril de 2015
 ______________________________
 PREFEITO MUNICIPAL
 
-- Anexo I – DIVISÃO ADMINISTRATIVA DO MUNICÍPIO DE TIRADENTES
+### <a id="anexo-i">Anexo I – DIVISÃO ADMINISTRATIVA DO MUNICÍPIO DE TIRADENTES</a>
 
-- Anexo II – MACROZONEAMENTO MUNICIPAL
+### <a id="anexo-ii">Anexo II – MACROZONEAMENTO MUNICIPAL</a>
 
-- Anexo III – MACROZONEAMENTO URBANO E ARTICULAÇÃO VIÁRIA DA SEDE MUNICIPAL
+### <a id="anexo-iii">Anexo III – MACROZONEAMENTO URBANO E ARTICULAÇÃO VIÁRIA DA SEDE MUNICIPAL</a>
 
-- Anexo IV – MACROZONEAMENTO URBANO DE ÁGUAS SANTAS E CESAR DE PINA
+### <a id="anexo-iv">Anexo IV – MACROZONEAMENTO URBANO DE ÁGUAS SANTAS E CESAR DE PINA</a>
 
-- Anexo V – MACROZONEAMENTO URBANO DO DISTRITO DE ELVAS
+### <a id="anexo-v">Anexo V – MACROZONEAMENTO URBANO DO DISTRITO DE ELVAS</a>
 
-- Anexo VI – DISTRITO DE CAIXA D’ÁGUA DA ESPERANÇA
+### <a id="anexo-vi">Anexo VI – DISTRITO DE CAIXA D’ÁGUA DA ESPERANÇA</a>
 
-- Anexo VII – ARTICULAÇÃO MUNICIPAL
+### <a id="anexo-vii">Anexo VII – ARTICULAÇÃO MUNICIPAL</a>
 
-- Anexo VIII – EMPREENDIMENTOS DE IMPACTO
+### <a id="anexo-viii">Anexo VIII – EMPREENDIMENTOS DE IMPACTO</a>
 
-- Anexo X - TERMO DE REFERÊNCIA PARA A ELABORAÇÃO DE ESTUDO DE IMPACTO DE VIZINHANÇA (EIV)
+### <a id="anexo-ix">Anexo X - TERMO DE REFERÊNCIA PARA A ELABORAÇÃO DE ESTUDO DE IMPACTO DE VIZINHANÇA (EIV)</a>
